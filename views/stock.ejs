@@ -1,0 +1,45 @@
+<%- include("partials/header"); %>
+
+<div class="container pt-5">
+<div class="container pt-5">
+    <h2>You are checking <%= info.data[0].symbol %> stock.</h2>
+</div>
+</div>
+
+
+<div class="container pt-2">
+    <div class="row justify-content-center">
+        <%  if (info.pagination.total != 0)
+            for (var i=0; i<info.data.length-(info.data.length%3); i=i+3) { %>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>Date: <%= info.data[i].date.split("T")[0] %></p>
+                <p>Open: <%= info.data[i].open %></p>
+                <p>Close: <%= info.data[i].close %></p>
+                <p>Volume: <%= info.data[i].volume %></p>
+                <p>Timeframe: 24h></p>
+            </div>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>Date: <%= info.data[i+1].date.split("T")[0] %></p>
+                <p>Open: <%= info.data[i+1].open %></p>
+                <p>Close: <%= info.data[i+1].close %></p>
+                <p>Volume: <%= info.data[i+1].volume %></p>
+                <p>Timeframe: 24h></p>
+            </div>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>Date: <%= info.data[i+2].date.split("T")[0] %></p>
+                <p>Open: <%= info.data[i+2].open %></p>
+                <p>Close: <%= info.data[i+2].close %></p>
+                <p>Volume: <%= info.data[i+2].volume %></p>
+                <p>Timeframe: 24h></p>
+            </div>
+        <%  } 
+            else { %>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>The stock has no database, try other stocks.</p>
+                <p>We are doing our best to offer you the best services possible.</p>
+            </div>    
+            <% } %>
+    </div>
+</div> 
+
+<%- include("partials/footer"); %>

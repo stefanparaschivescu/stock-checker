@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap');
+
+#logo {
+	font-family: 'News Cycle', sans-serif;
+	text-shadow: .5px .5px #2498C2;
+	font-size: xx-large;
+	margin: -14px 0 -10px 0;
+	padding-right: 7px;
+}
+
+#logo img {
+	margin-right: -6px;
+	margin-left: -10px;
+} 

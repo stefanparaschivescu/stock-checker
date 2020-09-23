@@ -1,0 +1,1704 @@
+
+[
+    {
+        "id":"1",
+        "name":"XASE (American Stock Exchange)",
+        "symbol": "XASE",
+        "parent_id":"0"
+    },
+    {
+        "id":"2",
+        "name":"XASX (Australia Stock Exchange)",
+        "symbol": "XASX",
+        "parent_id":"0"
+    },
+    {
+        "id":"3",
+        "name":"XLIM (Bolsa de Valores de Lima)",
+        "symbol": "XLIM",
+        "parent_id":"0"
+    },
+    {
+        "id":"4",
+        "name":"BVMF (Australia Stock Exchange)",
+        "symbol": "BVMF",
+        "parent_id":"0"
+    },
+    {
+        "id":"5",
+        "name":"XBAH (Bahrein Bourse)",
+        "symbol": "XBAH",
+        "parent_id":"0"
+    },
+    {
+        "id":"6",
+        "name":"XBEL (Belgrade Stock Exchange)",
+        "symbol": "XBEL",
+        "parent_id":"0"
+    },
+    {
+        "id":"7",
+        "name":"XBOG (Bolsa de Valores de Colombia)",
+        "symbol": "XBOG",
+        "parent_id":"0"
+    },
+    {
+        "id":"8",
+        "name":"BMEX (Bolsas y Mercados Espanoles)",
+        "symbol": "BMEX",
+        "parent_id":"0"
+    },
+    {
+        "id":"9",
+        "name":"XBOM (Bombay Stock Exchange)",
+        "symbol": "XBOM",
+        "parent_id":"0"
+    },
+    {
+        "id":"10",
+        "name":"XMIL (Borsa Italiana)",
+        "symbol": "XMIL",
+        "parent_id":"0"
+    },
+    {
+        "id":"11",
+        "name":"XBUE (Buenos Aires Stock Exchange)",
+        "symbol": "XBUE",
+        "parent_id":"0"
+    },
+    {
+        "id":"12",
+        "name":"XSTU (Börse Stuttgart)",
+        "symbol": "XSTU",
+        "parent_id":"0"
+    },
+    {
+        "id":"13",
+        "name":"XCNQ (Canadian Securities Exchange)",
+        "symbol": "XCNQ",
+        "parent_id":"0"
+    },
+    {
+        "id":"14",
+        "name":"XCSE (Copenhagen Stock Exchange)",
+        "symbol": "XCSE",
+        "parent_id":"0"
+    },
+    {
+        "id":"15",
+        "name":"XFRA (Deutsche Börse)",
+        "symbol": "XFRA",
+        "parent_id":"0"
+    },
+    {
+        "id":"16",
+        "name":"XETR (Deutsche Börse Xetra)",
+        "symbol": "XETR",
+        "parent_id":"0"
+    },
+    {
+        "id":"17",
+        "name":"XDFM (Dubai Financial Market)",
+        "symbol": "XDFM",
+        "parent_id":"0"
+    },
+    {
+        "id":"18",
+        "name":"XCAI (Eqyptian Exchange)",
+        "symbol": "XCAI",
+        "parent_id":"0"
+    },
+    {
+        "id":"19",
+        "name":"XAMS (Euronext Amsterdam)",
+        "symbol": "XAMS",
+        "parent_id":"0"
+    },
+    {
+        "id":"20",
+        "name":"XAMS (Euronext Amsterdam)",
+        "symbol": "XAMS",
+        "parent_id":"0"
+    },
+    {
+        "id":"21",
+        "name":"XAMS (Euronext Amsterdam)",
+        "symbol": "XAMS",
+        "parent_id":"0"
+    },
+    {
+        "id":"22",
+        "name":"XBRU (Euronext Brussels)",
+        "symbol": "XBRU",
+        "parent_id":"0"
+    },
+    {
+        "id":"23",
+        "name":"XLIS (Euronext Lisbon)",
+        "symbol": "XLIS",
+        "parent_id":"0"
+    },
+    {
+        "id":"24",
+        "name":"XPAR (Euronext Paris)",
+        "symbol": "XPAR",
+        "parent_id":"0"
+    },
+    {
+        "id":"25",
+        "name":"XFKA (Fukuoka Stock Exchange)",
+        "symbol": "XFKA",
+        "parent_id":"0"
+    },
+    {
+        "id":"26",
+        "name":"XHEL (Helsinki Stock Exchange)",
+        "symbol": "XHEL",
+        "parent_id":"0"
+    },
+    {
+        "id":"27",
+        "name":"XSTC (Ho Chi Minh Stock Exchange)",
+        "symbol": "XSTC",
+        "parent_id":"0"
+    },
+    {
+        "id":"28",
+        "name":"IEXG (Investors Exchange)",
+        "symbol": "IEXG",
+        "parent_id":"0"
+    },
+    {
+        "id":"29",
+        "name":"XIST (Istanbul Stock Exchange)",
+        "symbol": "XIST",
+        "parent_id":"0"
+    },
+    {
+        "id":"30",
+        "name":"XIDX (Jakarta Stock Exchange)",
+        "symbol": "XIDX",
+        "parent_id":"0"
+    },
+    {
+        "id":"31",
+        "name":"XJSE (Johannesburg Stock Exchange)",
+        "symbol": "XJSE",
+        "parent_id":"0"
+    },
+    {
+        "id":"32",
+        "name":"XKRX (Korean Stock Exchange)",
+        "symbol": "XKRX",
+        "parent_id":"0"
+    },
+    {
+        "id":"33",
+        "name":"XLON (London Stock Exchange)",
+        "symbol": "XLON",
+        "parent_id":"0"
+    },
+    {
+        "id":"34",
+        "name":"XKLS (Malaysia Stock Exchange)",
+        "symbol": "XKLS",
+        "parent_id":"0"
+    },
+    {
+        "id":"35",
+        "name":"XMEX (Mexican Stock Exchange)",
+        "symbol": "XMEX",
+        "parent_id":"0"
+    },
+    {
+        "id":"36",
+        "name":"MISX (Moscow Stock Exchange)",
+        "symbol": "MISX",
+        "parent_id":"0"
+    },
+    {
+        "id":"37",
+        "name":"XNAS (NASDAQ Stock Exchange)",
+        "symbol": "XNAS",
+        "parent_id":"0"
+    },
+    {
+        "id":"38",
+        "name":"ARCX (NYSE ARCA)",
+        "symbol": "ARCX",
+        "parent_id":"0"
+    },
+    {
+        "id":"39",
+        "name":"XNGO (Nagoya Stock Exchange)",
+        "symbol": "XNGO",
+        "parent_id":"0"
+    },
+    {
+        "id":"40",
+        "name":"XICE (Nasdaq Island)",
+        "symbol": "XICE",
+        "parent_id":"0"
+    },
+    {
+        "id":"41",
+        "name":"XRIS (Nasdaq Riga)",
+        "symbol": "XRIS",
+        "parent_id":"0"
+    },
+    {
+        "id":"42",
+        "name":"XLIT (Nasdaq Vilnius)",
+        "symbol": "XLIT",
+        "parent_id":"0"
+    },
+    {
+        "id":"43",
+        "name":"XNSE (National Stock Exchange India)",
+        "symbol": "XNSE",
+        "parent_id":"0"
+    },
+    {
+        "id":"44",
+        "name":"XNYS (New York Stock Exchange)",
+        "symbol": "XNYS",
+        "parent_id":"0"
+    },
+    {
+        "id":"45",
+        "name":"XNZE (New Zealand Stock Exchange)",
+        "symbol": "XNZE",
+        "parent_id":"0"
+    },
+    {
+        "id":"46",
+        "name":"XNSA (Nigerian Stock Exchange)",
+        "symbol": "XNSA",
+        "parent_id":"0"
+    },
+    {
+        "id":"47",
+        "name":"OOTC (OTC Bulletin Board)",
+        "symbol": "OOTC",
+        "parent_id":"0"
+    },
+    {
+        "id":"48",
+        "name":"PSGM (OTC Grey Market)",
+        "symbol": "PSGM",
+        "parent_id":"0"
+    },
+    {
+        "id":"49",
+        "name":"OTCM (OTC Markets)",
+        "symbol": "OTCM",
+        "parent_id":"0"
+    },
+    {
+        "id":"50",
+        "name":"PINC (OTC PINK current)",
+        "symbol": "PINC",
+        "parent_id":"0"
+    },
+    {
+        "id":"51",
+        "name":"OTCB (OTCQB Marketplace)",
+        "symbol": "OTCB",
+        "parent_id":"0"
+    },
+    {
+        "id":"52",
+        "name":"OTCQ (OTCQX Marketplace)",
+        "symbol": "OTCQ",
+        "parent_id":"0"
+    },
+    {
+        "id":"53",
+        "name":"XOSL (Oslo Stock Exchange)",
+        "symbol": "XOSL",
+        "parent_id":"0"
+    },
+    {
+        "id":"54",
+        "name":"DSMD (Qatar Stock Exchange)",
+        "symbol": "DSMD",
+        "parent_id":"0"
+    },
+    {
+        "id":"55",
+        "name":"XSWX (SIX Swiss Exchange)",
+        "symbol": "XSWX",
+        "parent_id":"0"
+    },
+    {
+        "id":"56",
+        "name":"XSGO (Santiago Stock Exchange)",
+        "symbol": "XSGO",
+        "parent_id":"0"
+    },
+    {
+        "id":"57",
+        "name":"XSAP (Sapporo Stock Exchange)",
+        "symbol": "XSAP",
+        "parent_id":"0"
+    },
+    {
+        "id":"58",
+        "name":"XSAU (Saudi Stock Exchange)",
+        "symbol": "XSAU",
+        "parent_id":"0"
+    },
+    {
+        "id":"59",
+        "name":"XSHG (Shanghai Stock Exchange)",
+        "symbol": "XSHG",
+        "parent_id":"0"
+    },
+    {
+        "id":"60",
+        "name":"XSHE (Shenzhen Stock Exchange)",
+        "symbol": "XSHE",
+        "parent_id":"0"
+    },
+    {
+        "id":"61",
+        "name":"XSES (Singapore Stock Exchange)",
+        "symbol": "XSES",
+        "parent_id":"0"
+    },
+    {
+        "id":"62",
+        "name":"XBKK (Stock Exchange of Thailand)",
+        "symbol": "XBKK",
+        "parent_id":"0"
+    },
+    {
+        "id":"63",
+        "name":"XSTO (Stockholm Stock Exchange)",
+        "symbol": "XSTO",
+        "parent_id":"0"
+    },
+    {
+        "id":"64",
+        "name":"XTSX (TSX Venture Exchange)",
+        "symbol": "XTSX",
+        "parent_id":"0"
+    },
+    {
+        "id":"65",
+        "name":"XTAI (Taiwan Stock Exchange)",
+        "symbol": "XTAI",
+        "parent_id":"0"
+    },
+    {
+        "id":"66",
+        "name":"XTAL (Tallinn Stock Exchange)",
+        "symbol": "XTAL",
+        "parent_id":"0"
+    },
+    {
+        "id":"67",
+        "name":"XTAE (Tel Aviv Stock Exchange)",
+        "symbol": "XTAE",
+        "parent_id":"0"
+    },
+    {
+        "id":"68",
+        "name":"XTKS (Tokyo Stock Exchange)",
+        "symbol": "XTKS",
+        "parent_id":"0"
+    },
+    {
+        "id":"69",
+        "name":"XTSE (Toronto Stock Exchange)",
+        "symbol": "XTSE",
+        "parent_id":"0"
+    },
+    {
+        "id":"70",
+        "name":"NMFQ (US Mutual Funds )",
+        "symbol": "NMFQ",
+        "parent_id":"0"
+    },
+    {
+        "id":"71",
+        "name":"XWAR (Warsaw Stock Exchange)",
+        "symbol": "XWAR",
+        "parent_id":"0"
+    },
+
+    
+
+
+
+
+
+
+    {
+        "name": "Aberdeen Emerging Markets Smaller Company Opportun",
+        "symbol": "ABE",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Adcare Health Systems Inc 10.875 Series A Cumulati",
+        "symbol": "ADK-P-A",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Associated Banc-Corp Warrant 11/21/2018",
+        "symbol": "ASB-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "AST.WS",
+        "symbol": "AST-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "AST.WS.W",
+        "symbol": "AST-WS-W",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "ATEST.A",
+        "symbol": "ATEST-A",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "ATEST.B",
+        "symbol": "ATEST-B",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "ATESTC",
+       "symbol": "ATEST-C",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "ATESTG",
+       "symbol": "ATEST-G",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "ATEST.H",
+        "symbol": "ATEST-H",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "ATEST.L",
+        "symbol": "ATEST-L",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Bancroft Fund Limited 5375 Series A Cumulative Pre",
+       "symbol": "BCV-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Morgan Stanley BRIDGES Dow Jones Industrial Averag",
+        "symbol": "BGD",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Blackrock New Jersey Municipal Bond Trst",
+        "symbol": "BLJ",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Bluerock Residential Growth REIT Inc 8250 Series A",
+       "symbol": "BRG-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Bluerock Residential Growth REIT Inc 7625 Series C",
+       "symbol": "BRG-P-C",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Bluerock Residential Growth REIT Inc 7125 Series D",
+       "symbol": "BRG-P-D",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "BioTime Inc. Wt Exp 10012018",
+        "symbol": "BTX-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Bowl America Incorporated BWLA",
+       "symbol": "BWL-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Nuveen Diversified Commodity Fund",
+       "symbol": "CFD",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Aberdeen Chile Fund, Inc",
+       "symbol": "CH",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Nuveen Long Short Commodity Total Return",
+        "symbol": "CTF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "CELSCI Corp. Wt Exp 10112018",
+        "symbol": "CVM-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "CVSL",
+        "symbol": "CVSL",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "DXI",
+        "symbol": "DXI",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Ellsworth Fund Ltd",
+       "symbol": "ECF-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "EOX",
+        "symbol": "EOX",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Eaton Vance Ohio Municipal Income Trust",
+        "symbol": "EVO",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Fieldpoint Petroleum Corp",
+        "symbol": "FPP-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "GAMCO Global Gold Natural Reources Income Trust 50",
+       "symbol": "GGN-P-B",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "The Gabelli Go Anywhere Trust",
+        "symbol": "GGO-C",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "The Gabelli Go Anywhere Trust Series A Cumulative ",
+       "symbol": "GGO-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "The Gabelli Global Utility and Income Trust Series",
+       "symbol": "GLU-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Gastar Exploration 8.625 Series A Cumulative Prefe",
+        "symbol": "GST-P-A",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Gastar Exploration Inc. Pfd Ser B",
+        "symbol": "GST-P-B",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "HCAC-U",
+        "symbol": "HCAC-U",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Hillman Group Capital Trust Preferred Stock",
+       "symbol": "HLM-P",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "IDI",
+        "symbol": "IDI",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Aberdeen Indonesia Fund, Inc",
+       "symbol": "IF",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "IGC-WS",
+        "symbol": "IGC-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "ImmunoCellular Therapeutics Ltd. Warrants",
+       "symbol": "IMUC-WS",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Aberdeen Israel Fund, Inc",
+       "symbol": "ISL",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Aberdeen Latin America Equity Fund, Inc",
+        "symbol": "LAQ",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "LGL-WS",
+        "symbol": "LGL-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Ladenburg Thalmann Financial Services Inc 800 Seri",
+        "symbol": "LTS-P-A",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Medgenics Inc. Wt",
+        "symbol": "MDGN-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "MDM",
+        "symbol": "MDM",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Minco Gold Corporation USA",
+        "symbol": "MGH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "MVG",
+        "symbol": "MVG",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "InspireMD Inc Warrant",
+       "symbol": "NSPR-WS",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "InspireMD Inc Series B Warrants exercisable for on",
+       "symbol": "NSPR-WS-B",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Nuveen California Dividend Advantage Municipal Fun",
+        "symbol": "NVX",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Nuveen Dividend Advantage Municipal Fd 2",
+        "symbol": "NXZ",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Nuveen CA Dividend Advantage Muni Fund 3",
+        "symbol": "NZH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "OSG-W",
+        "symbol": "OSG-W",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Overseas Shipholding Group Inc",
+        "symbol": "OSGB",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Par Pacific Holdings Inc. Rights Expiring Septembe",
+        "symbol": "PARR-R",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "Par Pacific Holdings Inc. Rights Expiring Septembe",
+        "symbol": "PARR-R-W",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "PBM",
+        "symbol": "PBM",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 6 Preferred Stock",
+       "symbol": "PCG-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 5 12 Preferred Stock",
+       "symbol": "PCG-P-B",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 5 1st Preferred Stock",
+       "symbol": "PCG-P-C",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 5 1st Red Preferred S",
+       "symbol": "PCG-P-D",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 5 1st A Preferred Sto",
+       "symbol": "PCG-P-E",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 480 1st Preferred Sto",
+       "symbol": "PCG-P-G",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 450 1st Preferred Sto",
+       "symbol": "PCG-P-H",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacific Gas Electric Company 436 1st Preferred Sto",
+       "symbol": "PCG-P-I",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Pacholder High Yield Fund Inc",
+       "symbol": "PHF",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "PVCT-WS",
+        "symbol": "PVCT-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Power REIT 775 Series A Cumulative Perpetual Prefe",
+       "symbol": "PW-P-A",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "REE",
+        "symbol": "REE",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Southern California Edison Company 408 Preferred S",
+       "symbol": "SCE-P-B",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Southern California Edison Company 424 Preferred S",
+       "symbol": "SCE-P-C",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Southern California Edison Company 432 Preferred S",
+       "symbol": "SCE-P-D",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+       "name": "Southern California Edison Company 478 Preferred S",
+       "symbol": "SCE-P-E",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Stone Energy Corporation Warrants",
+        "symbol": "SGY-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "TAS",
+        "symbol": "TAS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+        "name": "TRC-WS",
+        "symbol": "TRC-WS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    {
+       "name": "Energy Fuels Inc Warrants exercisable for one comm",
+       "symbol": "UUUU-WS",
+       "has_intraday": false,
+       "has_eod": true,
+       "parent_id": "1"
+    },
+    {
+        "name": "Vermont Pure Holdings Ltd",
+        "symbol": "VPS",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "1"
+    },
+    
+    
+
+
+    
+
+
+    {  "name": "ACB",
+        "symbol": "ACB.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Auteco Minerals Limited",
+        "symbol": "AUT.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "BET",
+        "symbol": "BET.XASX",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "2"
+    },
+    {
+        "name": "Peak Minerals Limited",
+        "symbol": "PUA.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "1414 Degrees Limited",
+        "symbol": "14D.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AdAlta Limited",
+        "symbol": "1AD.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Alterra Limited",
+        "symbol": "1AG.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "OneAll International Limited",
+        "symbol": "1AL.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "1st Group Limited",
+        "symbol": "1ST.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Tubi Limited",
+        "symbol": "2BE.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Life360, Inc",
+        "symbol": "360.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Amaero International Ltd",
+        "symbol": "3DA.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Pointerra Limited",
+        "symbol": "3DP.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "3P Learning Limited",
+        "symbol": "3PL.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Force Commodities Limited",
+        "symbol": "4CE.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "4DS Memory Limited",
+        "symbol": "4DS.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "5G Networks Limited",
+        "symbol": "5GN.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "88 Energy Limited",
+        "symbol": "88E.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "8common Limited",
+        "symbol": "8CO.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "8IP Emerging Companies Limited",
+        "symbol": "8EC.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "8I Holdings Limited",
+        "symbol": "8IH.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "8VIC Holdings Limited",
+        "symbol": "8VI.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "9 Spokes International Limited",
+        "symbol": "9SP.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "African Gold Limited",
+        "symbol": "A1G.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AIC Mines Limited",
+        "symbol": "A1M.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "BetaShares Australia 200 ETF",
+        "symbol": "A200.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "A2B Australia Limited",
+        "symbol": "A2B.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "The a2 Milk Company Limited",
+        "symbol": "A2M.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Aurora Labs Limited",
+        "symbol": "A3D.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Alita Resources Limited",
+        "symbol": "A40.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Alpha HPA Limited",
+        "symbol": "A4N.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "BetaShares Australian High Interest Cash ETF",
+        "symbol": "AAA.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Agricultural Company Limited",
+        "symbol": "AAC.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Aruma Resources Limited",
+        "symbol": "AAJ.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Agricultural Projects Ltd",
+        "symbol": "AAP.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Anglo Australian Resources NL",
+        "symbol": "AAR.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Auswide Bank Ltd",
+        "symbol": "ABA.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "ADBRI Limited",
+        "symbol": "ABC.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Abilene Oil and Gas Limited",
+        "symbol": "ABL.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Abacus Property Group",
+        "symbol": "ABP.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "American Pacific Borates Limited",
+        "symbol": "ABR.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Abundant Produce Limited",
+        "symbol": "ABT.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Advanced Braking Technology Limited",
+        "symbol": "ABV.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Bauxite Limited",
+        "symbol": "ABX.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AusCann Group Holdings Ltd",
+        "symbol": "AC8.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "A-Cap Energy Limited",
+        "symbol": "ACB.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "ETFS Battery Tech and Lithium",
+        "symbol": "ACDC.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Acrow Formwork and Construction Services Limited",
+        "symbol": "ACF.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Audalia Resources Limited",
+        "symbol": "ACP.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Acorn Capital Investment Fund Limited",
+        "symbol": "ACQ.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Acrux Limited",
+        "symbol": "ACR.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Accent Resources NL",
+        "symbol": "ACS.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Acumentis Group Limited",
+        "symbol": "ACU.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Actinogen Medical Limited",
+        "symbol": "ACW.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AD1 Holdings Limited",
+        "symbol": "AD1.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Audinate Group Limited",
+        "symbol": "AD8.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adacel Technologies Limited",
+        "symbol": "ADA.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adavale Resources Limited",
+        "symbol": "ADD.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adairs Limited",
+        "symbol": "ADH.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "APN Industria REIT",
+        "symbol": "ADI.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adslot Limited",
+        "symbol": "ADJ.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Andromeda Metals Limited",
+        "symbol": "ADN.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AnteoTech Limited",
+        "symbol": "ADO.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adherium Limited",
+        "symbol": "ADR.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adslot Limited",
+        "symbol": "ADS.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Adriatic Metals PLC",
+        "symbol": "ADT.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Ardiden Limited",
+        "symbol": "ADV.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "ADX Energy Ltd",
+        "symbol": "ADX.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Admiralty Resources NL",
+        "symbol": "ADY.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Affinity Energy and Health Limited",
+        "symbol": "AEB.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Aura Energy Limited",
+        "symbol": "AEE.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Ethical Investment Ltd",
+        "symbol": "AEF.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Absolute Equity Performance Fund Limited",
+        "symbol": "AEG.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Aeris Environmental Ltd",
+        "symbol": "AEI.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Aeeris Limited",
+        "symbol": "AER.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Avenira Limited",
+        "symbol": "AEV.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "ASF Group Limited",
+        "symbol": "AFA.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Finance Group Limited",
+        "symbol": "AFG.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Foundation Investment Company Limited",
+        "symbol": "AFI.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AF Legal Group Limited",
+        "symbol": "AFL.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AFT Pharmaceuticals Limited",
+        "symbol": "AFP.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "African Energy Resources Limited",
+        "symbol": "AFR.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AFT Corporation Limited",
+        "symbol": "AFT.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Austral Gold Limited",
+        "symbol": "AGD.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Alligator Energy Limited",
+        "symbol": "AGE.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AngloGold Ashanti Limited",
+        "symbol": "AGG.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Althea Group Holdings Limited",
+        "symbol": "AGH.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Ainsworth Game Technology Limited",
+        "symbol": "AGI.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Agricultural Land Trust",
+        "symbol": "AGJ.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AGL Energy Limited",
+        "symbol": "AGL.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Governance & Ethical Index Fund",
+        "symbol": "AGM.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Aguia Resources Limited",
+        "symbol": "AGR.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Alliance Resources Limited",
+        "symbol": "AGS.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Argosy Minerals Limited",
+        "symbol": "AGY.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Australian Dairy Nutritionals Group",
+        "symbol": "AHF.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "AHAlife Holdings Limited",
+        "symbol": "AHL.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Allegiance Coal Limited",
+        "symbol": "AHQ.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Apiam Animal Health Limited",
+        "symbol": "AHX.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Asaleo Care Limited",
+        "symbol": "AHY.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+    },
+    {
+        "name": "Anteris Technologies Ltd",
+        "symbol": "AHZ.XASX",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "2"
+        }
+
+]  
