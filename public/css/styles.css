@@ -1,5 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap');
 
+body { padding-top: 65px; }
+@media (max-width: 767px) /* @grid-float-breakpoint -1 */
+{
+    .fixed-top
+    {
+    position: relative;
+    top: auto;
+	}
+
+	.navbar-collapse {
+        max-height: none;
+    }
+    body {
+		margin: -65px 0 0 0;
+    }
+
+}
+
+
 #logo {
 	font-family: 'News Cycle', sans-serif;
 	text-shadow: .5px .5px #2498C2;
@@ -12,3 +31,7 @@
 	margin-right: -6px;
 	margin-left: -10px;
 } 
+
+.ui-autocomplete-loading {
+    background: white url("/images/ui-anim_basic_16x16.gif") right center no-repeat;
+  }

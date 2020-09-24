@@ -27,35 +27,14 @@ script.post("/", function (req, res) {
     console.log(stockName);
     console.log(stockMarket);
 
-    request("http://api.marketstack.com/v1/eod?access_key=720d5dfa9f8e16db10ddda0d8607f4ec&exchange=" + tickers[stockMarket-1].symbol + "&symbols=" + stockName, function(error, response, body) {
-        if (error)
-            console.log(error);
-        else {
-            var parsedData = JSON.parse(body);
-            res.render("stock", {
-                info: parsedData,
-                stockName: stockName,
-                lodash: lodash
-            });
-            console.log(parsedData);
-        }
-    });
-
-    // res.end();
+    res.redirect("/stocks/" + tickers[stockMarket-1].symbol + "/" + stockName)
 });
 
 
 script.get("/markets", function(req, res) {
-    request("name", function(error, response, body) {
-        if (error)
-            res.send(error);
-        else {
-            res.render("market", {
-                info: parsedData,
-                stockName: stockName
-            });
-        }
-    });
+    res.render("market", {
+        symbols: tickers
+    })
 });
 
 script.get("/stocks", function(req,res) {
@@ -89,6 +68,24 @@ script.get ("/stocks/:stock", function(req, res) {
         }
     });
     
+});
+
+script.get("/stocks/:marketName/:stockName", function(req, res){
+    const marketName = req.params.marketName;
+    const stockName = req.params.stockName;
+
+    request("http://api.marketstack.com/v1/eod?access_key=720d5dfa9f8e16db10ddda0d8607f4ec&exchange=" + marketName + "&symbols=" + stockName, function(error, response, body) {
+        if (error)
+            console.log(error);
+        else {
+            var parsedData = JSON.parse(body);
+            res.render("stock", {
+                info: parsedData,
+                stockName: stockName,
+            });
+            console.log(parsedData);
+        }
+    });
 });
 
 script.get("*", function(req, res) {

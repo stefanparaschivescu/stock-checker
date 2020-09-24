@@ -1,16 +1,15 @@
 <%- include("partials/header"); %>
 
 	
-	<form action="/" method="POST" class="container pt-5" enctype="application/json">
-		<div class="form-group pt-4">
+	<form action="/" method="POST" class="container pt-2" enctype="application/json">
+		<div class="form-group">
 			<select class="form-control" name="market" id="market">
                 <option value="">Select market</option>
                 <!-- <option value="debug1">debug1</option>  -->
             </select>
-            <select class="form-control mt-1" name="stock" id="stock" required>
-                <option value="">Select Stock</option>
-                <!-- <option value="debug2">debug2</option> -->
-            </select>
+            <div class="form-group ui-widget mt-1">  
+                <input class="form-control" name="stock" id="input" type="text" placeholder="Search stock..."/>
+            </div>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
