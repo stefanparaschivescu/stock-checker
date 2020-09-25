@@ -4,139 +4,163 @@
         "id":"1",
         "name":"XASE (American Stock Exchange)",
         "symbol": "XASE",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "USA",
+        "numberOfStocks": 10
     },
     {
         "id":"2",
         "name":"XASX (Australia Stock Exchange)",
         "symbol": "XASX",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Australia",
+        "numberOfStocks": 10
     },
     {
         "id":"3",
         "name":"XLIM (Bolsa de Valores de Lima)",
         "symbol": "XLIM",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Peru",
+        "numberOfStocks": 10 
     },
     {
         "id":"4",
         "name":"BVMF (Australia Stock Exchange)",
         "symbol": "BVMF",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Australia",
+        "numberOfStocks": 10 
     },
     {
         "id":"5",
         "name":"XBAH (Bahrein Bourse)",
         "symbol": "XBAH",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Bahrein" ,
+        "numberOfStocks": 10
     },
     {
         "id":"6",
         "name":"XBEL (Belgrade Stock Exchange)",
         "symbol": "XBEL",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Serbia" ,
+        "numberOfStocks": 10
     },
     {
         "id":"7",
         "name":"XBOG (Bolsa de Valores de Colombia)",
         "symbol": "XBOG",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Colombia" ,
+        "numberOfStocks": 10
     },
     {
         "id":"8",
         "name":"BMEX (Bolsas y Mercados Espanoles)",
         "symbol": "BMEX",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Spain" ,
+        "numberOfStocks": 10
     },
     {
         "id":"9",
         "name":"XBOM (Bombay Stock Exchange)",
         "symbol": "XBOM",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "India" ,
+        "numberOfStocks": 10
     },
     {
         "id":"10",
         "name":"XMIL (Borsa Italiana)",
         "symbol": "XMIL",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Italy" ,
+        "numberOfStocks": 10
     },
     {
         "id":"11",
         "name":"XBUE (Buenos Aires Stock Exchange)",
         "symbol": "XBUE",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Argentina" ,
+        "numberOfStocks": 10
     },
     {
         "id":"12",
         "name":"XSTU (Börse Stuttgart)",
         "symbol": "XSTU",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Germany" ,
+        "numberOfStocks": 10
     },
     {
         "id":"13",
         "name":"XCNQ (Canadian Securities Exchange)",
         "symbol": "XCNQ",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Canada" ,
+        "numberOfStocks": 10
     },
     {
         "id":"14",
         "name":"XCSE (Copenhagen Stock Exchange)",
         "symbol": "XCSE",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Denmark" ,
+        "numberOfStocks": 10
     },
     {
         "id":"15",
         "name":"XFRA (Deutsche Börse)",
         "symbol": "XFRA",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Germany" ,
+        "numberOfStocks": 10
     },
     {
         "id":"16",
         "name":"XETR (Deutsche Börse Xetra)",
         "symbol": "XETR",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Germany" 
     },
     {
         "id":"17",
         "name":"XDFM (Dubai Financial Market)",
         "symbol": "XDFM",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "United Arab Emirates (UAE)" 
     },
     {
         "id":"18",
         "name":"XCAI (Eqyptian Exchange)",
         "symbol": "XCAI",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Egypt"
     },
     {
         "id":"19",
         "name":"XAMS (Euronext Amsterdam)",
         "symbol": "XAMS",
-        "parent_id":"0"
-    },
-    {
-        "id":"20",
-        "name":"XAMS (Euronext Amsterdam)",
-        "symbol": "XAMS",
-        "parent_id":"0"
-    },
-    {
-        "id":"21",
-        "name":"XAMS (Euronext Amsterdam)",
-        "symbol": "XAMS",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Netherlands"
     },
     {
         "id":"22",
         "name":"XBRU (Euronext Brussels)",
         "symbol": "XBRU",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Belgium"
     },
     {
         "id":"23",
         "name":"XLIS (Euronext Lisbon)",
         "symbol": "XLIS",
-        "parent_id":"0"
+        "parent_id":"0",
+        "country": "Portugal"
     },
     {
         "id":"24",

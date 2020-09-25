@@ -32,9 +32,24 @@ script.post("/", function (req, res) {
 
 
 script.get("/markets", function(req, res) {
-    res.render("market", {
-        symbols: tickers
+    res.render("markets", {
+        tickers: tickers
     })
+});
+
+script.get(":marketName", function(req, res){
+    var marketName = req.params.marketName;
+    request("http://api.marketstack.com/v1/tickers?access_key=720d5dfa9f8e16db10ddda0d8607f4ec&exchange=" + marketName, function(error, response, body) {
+    if (error)
+        console.log(error);
+    else {
+        var parsedData = JSON.parse(body);
+            res.render("market", {
+            info: parsedData,
+            marketName: marketName
+            });
+        }
+    });
 });
 
 script.get("/stocks", function(req,res) {

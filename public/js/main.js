@@ -66,5 +66,9 @@ $(document).ready(function(){
      }
      availableStocks=[];
     });
+
+  //   $(".clickable-row").click(function() {
+  //     window.location = $(this).data("url");
+  // });
   
 });

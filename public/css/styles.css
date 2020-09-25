@@ -15,9 +15,10 @@ body { padding-top: 65px; }
     body {
 		margin: -65px 0 0 0;
     }
-
+    
 }
 
+.clickable-row { cursor: pointer; }
 
 #logo {
 	font-family: 'News Cycle', sans-serif;
