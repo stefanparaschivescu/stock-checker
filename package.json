@@ -4,8 +4,13 @@
   "description": "Learning the basics of back-end developing",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "Paraschivescu Stefan",
   "license": "ISC",
   "dependencies": {
@@ -13,5 +18,8 @@
     "express": "^4.17.1",
     "lodash": "^4.17.20",
     "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
