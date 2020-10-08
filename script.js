@@ -105,6 +105,7 @@ script.get("*", function(req, res) {
     res.send("Error 404. Page not found");
 });
 
-script.listen(3000, function() {
-    console.log("Welcome to StockChcker!");
+const PORT = process.env.PORT || 3000;
+script.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}.`);
 });
