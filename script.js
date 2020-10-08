@@ -39,7 +39,7 @@ script.get("/markets", function(req, res) {
 
 script.get(":marketName", function(req, res){
     var marketName = req.params.marketName;
-    request("http://api.marketstack.com/v1/tickers?access_key=720d5dfa9f8e16db10ddda0d8607f4ec&exchange=" + marketName, function(error, response, body) {
+    request("http://api.marksetstack.com/v1/tickers?access_key=720d5dfa9f8e16db10ddda0d8607f4ec&exchange=" + marketName, function(error, response, body) {
     if (error)
         console.log(error);
     else {
@@ -53,15 +53,13 @@ script.get(":marketName", function(req, res){
 });
 
 script.get("/stocks", function(req,res) {
-    var stockName = req.query.stock;
-    request("ceva cu stockName", function(error, response, body) {
+    request("http://api.marketstack.com/v1/eod?access_key=720d5dfa9f8e16db10ddda0d8607f4ec&symbols=AAPL,MSFT,TSLA,AMZN,FB,NFLX", function(error, response, body) {
         if (error)
             res.send(error);
         else {
             var parsedData = JSON.parse(body);
-            res.render("stock", {
-                info: parsedData,
-                stockName: stockName
+            res.render("importantStocks", {
+                info: parsedData
             });
         }
     });
