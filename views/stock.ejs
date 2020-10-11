@@ -14,27 +14,30 @@
                 <p>Open: <%= info.data[i].open %></p>
                 <p>Close: <%= info.data[i].close %></p>
                 <p>Volume: <%= info.data[i].volume %></p>
-                <p>Timeframe: 24h></p>
+                <p>Timeframe: 24h</p>
             </div>
             <div class="col-sm-3 col-md-3 border border-dark m-2">
                 <p>Date: <%= info.data[i+1].date.split("T")[0] %></p>
                 <p>Open: <%= info.data[i+1].open %></p>
                 <p>Close: <%= info.data[i+1].close %></p>
                 <p>Volume: <%= info.data[i+1].volume %></p>
-                <p>Timeframe: 24h></p>
+                <p>Timeframe: 24h</p>
             </div>
             <div class="col-sm-3 col-md-3 border border-dark m-2">
                 <p>Date: <%= info.data[i+2].date.split("T")[0] %></p>
                 <p>Open: <%= info.data[i+2].open %></p>
                 <p>Close: <%= info.data[i+2].close %></p>
                 <p>Volume: <%= info.data[i+2].volume %></p>
-                <p>Timeframe: 24h></p>
+                <p>Timeframe: 24h</p>
             </div>
         <%  } 
             else { %>
             <div class="col-sm-3 col-md-3 border border-dark m-2">
-                <p>The stock has no database, try other stocks.</p>
+                <p class="pt-3">The stock has no database, try other stocks.</p>
                 <p>We are doing our best to offer you the best services possible.</p>
+                <div class="pb-3">
+                    <a class="btn btn-primary" href="/" role="button">Search page</a>
+                </div>
             </div>    
             <% } %>
     </div>

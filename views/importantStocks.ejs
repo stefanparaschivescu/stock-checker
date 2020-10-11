@@ -1,15 +1,16 @@
 <%- include("partials/header"); %>
 
-
-<% for(var i=0; i<6; i++) { %>
-<div class="container mb-2"> 
-<div class="card">
-    <div class="card-body">
-      <h5 class="card-title"><%= info.data[i].symbol%></h5>
-      <p class="card-text">Exchange: <%= info.data[i].exchange %></p>
-      <p class="card-text"><small class="text-muted">Last updated: <%= info.data[i].date.split("T")[0] %></small></p>
-    </div>
-    <img src="..." alt="...">
+<div class="container p-2">
+  <% for(var i=0; i<6; i++) { %>
+  <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title"><%= info.data[i].symbol%></h5>
+        <p class="card-text">Exchange: <%= info.data[i].exchange %></p>
+        <p class="card-text"><small class="text-muted">Last updated: <%= info.data[i].date.split("T")[0] %></small></p>
+      <div class="pb-1">
+        <a class="btn btn-primary" href="/stocks/<%= info.data[i].symbol%>" role="button">See prices and volume</a>
+      </div>
+  </div>
 </div>
   
 <% } %> 

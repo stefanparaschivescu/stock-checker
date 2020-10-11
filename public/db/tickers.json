@@ -1,4 +1,3 @@
-
 [
     {
         "id":"1",
@@ -6,7 +5,7 @@
         "symbol": "XASE",
         "parent_id":"0",
         "country": "USA",
-        "numberOfStocks": 10
+        "numberOfStocks": 120
     },
     {
         "id":"2",
@@ -14,7 +13,7 @@
         "symbol": "XASX",
         "parent_id":"0",
         "country": "Australia",
-        "numberOfStocks": 10
+        "numberOfStocks":80
     },
     {
         "id":"3",
@@ -22,7 +21,7 @@
         "symbol": "XLIM",
         "parent_id":"0",
         "country": "Peru",
-        "numberOfStocks": 10 
+        "numberOfStocks": 70 
     },
     {
         "id":"4",
@@ -30,7 +29,7 @@
         "symbol": "BVMF",
         "parent_id":"0",
         "country": "Australia",
-        "numberOfStocks": 10 
+        "numberOfStocks": 211 
     },
     {
         "id":"5",
@@ -38,23 +37,7 @@
         "symbol": "XBAH",
         "parent_id":"0",
         "country": "Bahrein" ,
-        "numberOfStocks": 10
-    },
-    {
-        "id":"6",
-        "name":"XBEL (Belgrade Stock Exchange)",
-        "symbol": "XBEL",
-        "parent_id":"0",
-        "country": "Serbia" ,
-        "numberOfStocks": 10
-    },
-    {
-        "id":"7",
-        "name":"XBOG (Bolsa de Valores de Colombia)",
-        "symbol": "XBOG",
-        "parent_id":"0",
-        "country": "Colombia" ,
-        "numberOfStocks": 10
+        "numberOfStocks": 65
     },
     {
         "id":"8",
@@ -62,7 +45,7 @@
         "symbol": "BMEX",
         "parent_id":"0",
         "country": "Spain" ,
-        "numberOfStocks": 10
+        "numberOfStocks": 168
     },
     {
         "id":"9",
@@ -70,7 +53,7 @@
         "symbol": "XBOM",
         "parent_id":"0",
         "country": "India" ,
-        "numberOfStocks": 10
+        "numberOfStocks": 63
     },
     {
         "id":"10",
@@ -78,7 +61,7 @@
         "symbol": "XMIL",
         "parent_id":"0",
         "country": "Italy" ,
-        "numberOfStocks": 10
+        "numberOfStocks": 124
     },
     {
         "id":"11",
@@ -86,16 +69,8 @@
         "symbol": "XBUE",
         "parent_id":"0",
         "country": "Argentina" ,
-        "numberOfStocks": 10
+        "numberOfStocks": 163
     },
-    
-    
-
-
-
-
-
-
     {
         "name": "Aberdeen Emerging Markets Smaller Company Opportun",
         "symbol": "ABE",
@@ -1361,6 +1336,4364 @@
         "has_intraday": false,
         "has_eod": true,
         "parent_id": "2"
-        }
+    },
 
-]  
+    
+    {
+    "name": "APPLE INC",
+    "symbol": "AAPL.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"        
+    },
+    {
+    "name": "BANK OF AMERICA CORPORATION",
+    "symbol": "BAC.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COCA-COLA CO",
+    "symbol": "KO.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "WALT DISNEY COMPANY (THE)",
+    "symbol": "DIS.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "PFIZER INC",
+    "symbol": "PFE.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CITIGROUP INC",
+    "symbol": "C.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INTERNATIONAL BUS MACH CORP",
+    "symbol": "IBM.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CERVS PERUANAS BACKUS & JOHNSTON SA",
+    "symbol": "BACKUAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BARRICK GOLD CORPORATION",
+    "symbol": "ABX.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "SOUTHERN COPPER CORPORATION",
+    "symbol": "SCCO.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BANCO DE CREDITO DEL PERU",
+    "symbol": "CREDITC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CREDICORP",
+    "symbol": "BAP.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CERVS PERUANAS BACKUS & JOHNSTON SA",
+    "symbol": "BACKUSI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "SCOTIABANK PERU SAA",
+    "symbol": "SCOTIAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "SOCIEDAD MINERA CERRO VERDE SA",
+    "symbol": "CVERDEC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BANCO BBVA PERU",
+    "symbol": "BBVAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BANCO INTERNACIONAL DEL PERU INTBNC",
+    "symbol": "INTERBC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INTERCORP FINANCIAL SERVICES INC",
+    "symbol": "IFS.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "LUZ DEL SUR SA",
+    "symbol": "LUSURC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INRETAIL PERU CORP",
+    "symbol": "INRETC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COMPANIA DE MINAS BUENAVENTURA SA",
+    "symbol": "BUENAVC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COMPANIA DE MINAS BUENAVENTURA SA",
+    "symbol": "BVN.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "ALICORP SAA",
+    "symbol": "ALICORC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "ENEL GENERACION PERU SAA",
+    "symbol": "ENGEPEC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "ALICORP SAA",
+    "symbol": "ALICORI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "ENGIE ENERGIA DEL PERU SA",
+    "symbol": "ENGIEC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "FALABELLA PERU SAA",
+    "symbol": "FALABEC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MINSUR SA",
+    "symbol": "MINSURI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "NEXA RESOURCES PERU SAA",
+    "symbol": "NEXAPEC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "ENEL DISTRIBUCION PERU SAA",
+    "symbol": "ENDISPC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COMPANIA MINERA PODEROSA SA",
+    "symbol": "PODERC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "UNION ANDINA DE CEMENTOS S A A",
+    "symbol": "UNACEMC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CERVECERIA SAN JUAN SA",
+    "symbol": "SNJUANI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "TELEFONICA DEL PERU",
+    "symbol": "TELEFBC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CORPORACION LINDLEY SA",
+    "symbol": "CORLINI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "NEXA RESOURCES PERU SAA",
+    "symbol": "NEXAPEI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CEMENTOS PACASMAYO SAA",
+    "symbol": "CPACASC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "LECHE GLORIA SA",
+    "symbol": "GLORIAI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "HUDBAY MINERALS INC",
+    "symbol": "HBM.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CORPORACION CERVESUR SA",
+    "symbol": "COCESUC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CREDITEX SAA",
+    "symbol": "CRETEXC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INVERSIONES CENTENARIO",
+    "symbol": "INVCENC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "FERREYCORP SAA",
+    "symbol": "FERREYC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CEMENTOS PACASMAYO SAA",
+    "symbol": "CPACASI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "VOLCAN COMPANIA MINERA",
+    "symbol": "VOLCABC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "RIMAC SEGUROS Y REASEGUROS",
+    "symbol": "RIMSEGC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "SOUTHERN PERU COPPER CORP SUCURSAL",
+    "symbol": "SPCCPI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "GRANA Y MONTERO SA",
+    "symbol": "GRAMONC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CORPORACION ACEROS AREQUIPA SA",
+    "symbol": "CORAREC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "EMPRESA REGIONAL ELECTRONORTE MEDIO",
+    "symbol": "HIDRA2C1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "EMPRESA SIDERURGICA DEL PERU SAA",
+    "symbol": "SIDERC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CORPORACION ACEROS AREQUIPA SA",
+    "symbol": "CORAREI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MINERA EL BROCAL",
+    "symbol": "BROCALC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "REFINERIA LA PAMPILLA SAA",
+    "symbol": "RELAPAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "SOCIDAD MINERA CORONA SA",
+    "symbol": "MINCORI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "NEXA RESOURCES ATACOCHA SAA",
+    "symbol": "ATACOAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BOLSA DE VALORES DE LIMA SAA",
+    "symbol": "BVLAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INDECO SA",
+    "symbol": "INDECOI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CREDICORP CAPITAL PERU SAA",
+    "symbol": "CRECAPC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "EMPRESA EDITORA EL COMERCIO",
+    "symbol": "ELCOMEI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MINERA EL BROCAL",
+    "symbol": "BROCALI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "TREVALI MINING CORPORATION",
+    "symbol": "TV.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MOTORES DIESEL ANDINOS SA",
+    "symbol": "MODIANI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "DIVISO GRUPO FINANCIERO SA",
+    "symbol": "DIVIC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "EXSA SA",
+    "symbol": "EXSAI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "AUSTRAL GROUP SA",
+    "symbol": "AUSTRAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CASA GRANDE SAA",
+    "symbol": "CASAGRC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CONTINENTAL SOC TITULIZADORA SA",
+    "symbol": "FIBPRIME.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CARTAVIO SOCIEDAD ANONIMA ABIERTA",
+    "symbol": "CARTAVC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MICHELL INDUSTRIAL",
+    "symbol": "MICHEI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "NEXA RESOURCES ATACOCHA SAA",
+    "symbol": "ATACOBC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CIA MINERA SAN IGNACIO DE MOROCOCHA",
+    "symbol": "MOROCOI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MINERA IRL LTD",
+    "symbol": "MIRL.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "AGROINDUSTRIAS SAN JACINTO SOCIEDAD",
+    "symbol": "SNJACIC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "FUTURA CONSORCIO INMOBILIARIO SA",
+    "symbol": "FUTURAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "PPX MINING CORP",
+    "symbol": "PPX.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "PANORO MINERALS LIMITED",
+    "symbol": "PML.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BANCO PICHINCHA",
+    "symbol": "BPICHPC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "FUTURA CONSORCIO INMOBILIARIO SA",
+    "symbol": "FUTURAI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COMPANIA UNIVERSAL TEXTIL SA",
+    "symbol": "UNITEXC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INDUSTRIAS DEL ENVASE SA",
+    "symbol": "ENVASEI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COMPANIA UNIVERSAL TEXTIL SA",
+    "symbol": "UNITEXI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "EMPRESA AGROINDUSTRIAL POMALCA SA",
+    "symbol": "POMALCC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CANDENTE COPPER CORP",
+    "symbol": "DNT.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "LAIVE SA",
+    "symbol": "LAIVEBC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "FOSSAL SAA",
+    "symbol": "FOSSALC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "COMPANIA MINERA SANTA LUISA SA",
+    "symbol": "LUISAI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CONSORCIO CEMENTERO DEL SUR SA",
+    "symbol": "CONCESI1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "CERVS PERUANAS BACKUS & JOHNSTON SA",
+    "symbol": "BACKUBC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "VOLCAN COMPANIA MINERA",
+    "symbol": "VOLCAAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "BOLSA DE VALORES DE LIMA SAA",
+    "symbol": "BVLBC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "MAPFRE PERU CIA DE SEGUROS Y REASE",
+    "symbol": "MAPFREC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+    "name": "INDUSTRIA TEXTIL PIURA",
+    "symbol": "PIURAC1.XLIM",
+    "has_intraday": false,
+    "has_eod": false,
+    "parent_id": "3"
+    },
+    {
+        "name": "MICROSOFT DRN",
+        "symbol": "MSFT34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "APPLE DRN",
+        "symbol": "AAPL34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ALPHABET DRN C",
+        "symbol": "GOGL35.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ALIBABAGR DRN",
+        "symbol": "BABA34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "FACEBOOK DRN",
+        "symbol": "FBOK34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "AMAZON DRN",
+        "symbol": "AMZO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "VISA INC DRN",
+        "symbol": "VISA34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ALPHABET DRN A",
+        "symbol": "GOGL34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "JOHNSON DRN",
+        "symbol": "JNJB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "WAL MART DRN",
+        "symbol": "WALM34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MASTERCARD DRN",
+        "symbol": "MSCD34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "PG DRN",
+        "symbol": "PGCO34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "TAIWANSMFAC DRN",
+        "symbol": "TSMC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ATT INC DRN",
+        "symbol": "ATTB34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "UNITEDHEALTHDRN",
+        "symbol": "UNHH34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "HOME DEPOT DRN",
+        "symbol": "HOME34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "INTEL DRN",
+        "symbol": "ITLC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "COCA COLA DRN",
+        "symbol": "COCA34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "VERIZON DRN",
+        "symbol": "VERZ34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "EXXON MOBIL DRN",
+        "symbol": "EXXO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "WALT DISNEY DRN",
+        "symbol": "DISB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MERCK DRN",
+        "symbol": "MRCK34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "PEPSICO INC DRN",
+        "symbol": "PEPB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "TOYOTAMO DRN",
+        "symbol": "TMCO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "CHEVRON DRN",
+        "symbol": "CHVX34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "ADOBE INC DRN",
+        "symbol": "ADBE34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "CISCO DRN",
+        "symbol": "CSCO34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "WELLS FARGO DRN",
+        "symbol": "WFCO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "RD SHELL DRN",
+        "symbol": "RDSA34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "NVIDIA CORP DRN",
+        "symbol": "NVDC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "NETFLIX DRN",
+        "symbol": "NFLX34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ORACLE DRN",
+        "symbol": "ORCL34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "SALESFORCE DRN",
+        "symbol": "SSFO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MCDONALDS DRN",
+        "symbol": "MCDC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "SAP SE DRN",
+        "symbol": "SAPP34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "NIKE DRN",
+        "symbol": "NIKE34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ABBOTT DRN",
+        "symbol": "ABTT34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "CITIGROUP DRN",
+        "symbol": "CTGP34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MEDTRONIC DRN",
+        "symbol": "MDTC34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "TESLA INC DRN",
+        "symbol": "TSLA34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "UNILEVER DRN",
+        "symbol": "ULEV34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "COSTCO DRN",
+        "symbol": "COWC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "BRISTOLMYERSDRN",
+        "symbol": "BMYB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "PAYPAL HOLD DRN",
+        "symbol": "PYPL34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "NEXTERA ENERDRN",
+        "symbol": "NEXT34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "ABBVIE DRN",
+        "symbol": "ABBV34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "LILLY DRN",
+        "symbol": "LILY34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "AMGEN DRN",
+        "symbol": "AMGN34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "THERMFISCHERDRN",
+        "symbol": "TMOS34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ACCENTURE DRN",
+        "symbol": "ACNB34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "IBM DRN",
+        "symbol": "IBMB34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "HONEYWELL DRN",
+        "symbol": "HONB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "UNITED TECH DRN",
+        "symbol": "UTEC34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "BROADCOM INCDRN",
+        "symbol": "AVGO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "TEXAS INC DRN",
+        "symbol": "TEXA34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "UNIONPACIFICDRN",
+        "symbol": "UPAC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "BHP GROUP DRN",
+        "symbol": "BHPG34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "LOCKHEED DRN",
+        "symbol": "LMTB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "DANAHER CORPDRN",
+        "symbol": "DHER34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "CHARTER COMMDRN",
+        "symbol": "CHCM34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "STARBUCKS DRN",
+        "symbol": "SBUB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "GILEAD DRN",
+        "symbol": "GILD34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "QUALCOMM DRN",
+        "symbol": "QCOM34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "AMERICAN EXPDRN",
+        "symbol": "AXPB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "FIDELITY NATDRN",
+        "symbol": "F1NI34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "3M DRN",
+        "symbol": "MMMC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "LOWES COMPA DRN",
+        "symbol": "LOWC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "DIAGEO PL DRN ED",
+        "symbol": "DEOP34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "CVS HEALTH DRN",
+        "symbol": "CVSH34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "PETROBRAS ON N2",
+        "symbol": "PETR3F.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "PETROBRAS ON N2",
+        "symbol": "PETR3.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MONDELEZ INTDRN",
+        "symbol": "MDLZ34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "UPS DRN",
+        "symbol": "UPSS34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MORGAN STAN DRN",
+        "symbol": "MSBR34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ALTRIA GROUPDRN",
+        "symbol": "MOOO34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "SONY CORP DRN",
+        "symbol": "SNEC34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "RIO TINTO DRN",
+        "symbol": "RIOT34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "BLACKROCK DRN",
+        "symbol": "BLAK34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "TJX COMPANIEDRN",
+        "symbol": "TJXC34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "CME GROUP DRN",
+        "symbol": "CHME34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "US BANCORP DRN",
+        "symbol": "USBC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "GOLDMANSACHSDRN",
+        "symbol": "GSGI34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "INTUIT INC DRN",
+        "symbol": "INTU34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "DUKE ENERGY DRN",
+        "symbol": "DUKB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "SP GLOBAL DRN",
+        "symbol": "SPGI34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "BOOKING DRN",
+        "symbol": "BKNG34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "AUTOMATIC DTDRN",
+        "symbol": "ADPR34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "ESTEE LAUDERDRN",
+        "symbol": "ELCI34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "ITAUUNIBANCOON N1",
+        "symbol": "ITUB3.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "ITAUUNIBANCOON N1",
+        "symbol": "ITUB3F.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "COLGATE DRN",
+        "symbol": "COLG34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "CANAD NATIONDRN",
+        "symbol": "CNIC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "VERTEX PHARMDRN",
+        "symbol": "VRTX34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "MICRON TECHNDRN",
+        "symbol": "MUTC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "PNCFNANCIAL DRN",
+        "symbol": "PNCS34.BVMF",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "4"
+    },
+    {
+        "name": "BIOGEN DRN",
+        "symbol": "BIIB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "UBER TECH INDRN",
+        "symbol": "U1BE34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "NORTHROP GRUDRN",
+        "symbol": "NOCG34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "TARGET CORP DRN",
+        "symbol": "TGTB34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "CSX CORP DRN",
+        "symbol": "CSXC34.BVMF",
+        "has_intraday": false,
+        "has_eod": true,
+        "parent_id": "4"
+    },
+    {
+        "name": "AHLI UNITED BANK BSC",
+        "symbol": "AUB.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "NATIONAL BANK OF BAHRAIN",
+        "symbol": "NBB.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BBK BSC",
+        "symbol": "BBK.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN TELECOMMUNICATIONS",
+        "symbol": "BATELCO.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "ALUMINIUM BAHRAIN BSC",
+        "symbol": "ALBH.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "ARAB BANKING CORPORATION",
+        "symbol": "ABC.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "GFH FINANCIAL GROUP BSC",
+        "symbol": "GFH.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "AL SALAM BANK",
+        "symbol": "SALAM.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN COMMERCIAL FACILITIES",
+        "symbol": "BCFC.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "AL BARAKA BANKING GROUP",
+        "symbol": "BARKA.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "APM TERMINALS BAHRAIN BSC",
+        "symbol": "APMTB.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN ISLAMIC BANK",
+        "symbol": "BISB.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN MARITIME AND MERCANTILE INTERNATIONAL",
+        "symbol": "BMMI.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN DUTY FREE SHOP COMPLEX CO",
+        "symbol": "DUTYF.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "GULF HOTELS GROUP",
+        "symbol": "GHG.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "SEEF PROPERTIES",
+        "symbol": "SEEF.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN CINEMA",
+        "symbol": "CINECO.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "ITHMAAR HOLDING BSC",
+        "symbol": "ITHMR.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "KHALEEJI COMMERCIAL BANK BSC",
+        "symbol": "KHCB.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN KUWAIT INSURANCE",
+        "symbol": "BKIC.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "ZAIN BAHRAIN BSC",
+        "symbol": "ZAINBH.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN NATIONAL HOLDING CO",
+        "symbol": "BNH.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "SOLIDARITY BAHRAIN BSC",
+        "symbol": "SOLID.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "ESTERAD INVESTMENT",
+        "symbol": "ESTERAD.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "ARAB INSURANCE GROUP",
+        "symbol": "ARIG.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "NASS CORPRATION BSC",
+        "symbol": "NASS.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "NATIONAL HOTELS",
+        "symbol": "NHOTEL.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "BAHRAIN CAR PARK",
+        "symbol": "CPARK.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {
+        "name": "UNITED PAPER INDUSTRIES",
+        "symbol": "UPI.XBAH",
+        "has_intraday": false,
+        "has_eod": false,
+        "parent_id": "5"
+        },
+        {   
+            "name": "INDUSTRIA DE DISEO TEXTIL S.A. INDITEX-",
+            "symbol": "ITX.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "AIRBUS",
+            "symbol": "AIR.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "PETROLEO BRASILEIRO,S.A. -PETROBRAS- ORDINARIAS",
+            "symbol": "XPBR.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "ACCIONES IBERDROLA",
+            "symbol": "IBE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANCO SANTANDER S.A.",
+            "symbol": "SAN.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "AMERICA MOVIL, S.A.B. DE C.V. SERIE L",
+            "symbol": "XAMXL.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "COMPANHIA VALE DO RIO DOCE, S.A. ORDINARIAS",
+            "symbol": "XVALO.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+            "symbol": "BBVA.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "TELEFONICA,S.A.",
+            "symbol": "TEF.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "AMADEUS IT GROUP, S.A.",
+            "symbol": "AMS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ENDESA,S.A.",
+            "symbol": "ELE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "COCA-COLA EUROPEAN PARTNERS PLC",
+            "symbol": "CCEP.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "AENA, S.M.E., S.A.",
+            "symbol": "AENA.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "GRIFOLS S.A.",
+            "symbol": "GRF.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "NATURGY ENERGY GROUP, S.A.",
+            "symbol": "NTGY.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "FERROVIAL, S.A.",
+            "symbol": "FER.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "CELLNEX TELECOM, S.A.",
+            "symbol": "CLNX.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "REPSOL, S.A.",
+            "symbol": "REP.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "GRUPO FINANCIERO BANORTE S.A.B DE C.V. ORDINARIAS",
+            "symbol": "XNOR.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "CAIXABANK, S.A.",
+            "symbol": "CABK.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "GRUPO ELEKTRA, S.A. DE CV, ORDINARIAS",
+            "symbol": "XEKT.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "ARCELORMITTAL SA",
+            "symbol": "MTS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "CENTRAIS ELETRICAS BRASILEIRAS, S.A. ELETROBRAS -O",
+            "symbol": "XELTO.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "SIEMENS GAMESA RENEWABLE ENERGY, S.A.",
+            "symbol": "SGRE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "INTL CONSOLIDATED AIRLINES GROUP SA ORD EUR0.50 (C",
+            "symbol": "IAG.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "RED ELECTRICA CORPORACION, S.A.",
+            "symbol": "REE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ACS,ACTIVIDADES DE CONSTRUCCION Y SERVICIOS,S.A.",
+            "symbol": "ACS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ACCIONA, S.A.",
+            "symbol": "ANA.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ENAGAS,S.A.",
+            "symbol": "ENG.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "MAPFRE, S.A.",
+            "symbol": "MAP.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "INMOBILIARIA COLONIAL, SOCIMI S.A.",
+            "symbol": "COL.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "MERLIN PROPERTIES SOCIMI, S.A.",
+            "symbol": "MRL.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANKINTER, S.A.",
+            "symbol": "BKT.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANCO DE SABADELL",
+            "symbol": "SAB.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANKIA, S.A.",
+            "symbol": "BKIA.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ACCIONES FOMENTO DE CONSTRUCCIONES Y CONTRATAS, S.",
+            "symbol": "FCC.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "GENERAL DE GALERIAS COMERCIALES SOCIMI, S.A.",
+            "symbol": "YGGC.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "GRUPO CATALANA OCCIDENTE, S.A.",
+            "symbol": "GCO.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ZARDOYA OTIS, S.A.",
+            "symbol": "ZOT.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ALFA, S.A.B. DE C. V. CLASE I SERIE A",
+            "symbol": "XALFA.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "BOLSAS Y MERCADOS ESPANOLES,SOCIEDAD HOLDING DE ME",
+            "symbol": "BME.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "EBRO FOODS, S.A.",
+            "symbol": "EBRO.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "MASMOVIL IBERCOM, S.A.",
+            "symbol": "MAS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "COMPANIA DE DISTRIBUCION INTEGRAL LOGISTA HOLDINGS",
+            "symbol": "LOG.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "VIDRALA, S.A.",
+            "symbol": "VID.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "FLUIDRA, S.A.",
+            "symbol": "FDR.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BRADESPAR, S.A., ORDINARIAS",
+            "symbol": "XBRPO.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "CIE AUTOMOTIVE, S.A.",
+            "symbol": "CIE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "USINAS SIDERURGICAS DE MINAS GERAIS, S.A. ORDINARI",
+            "symbol": "XUSIO.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "CORPORACION FINANCIERA ALBA S.A.",
+            "symbol": "ALB.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "VISCOFAN, S.A.",
+            "symbol": "VIS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ACERINOX, S.A.",
+            "symbol": "ACX.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ALMIRALL S.A.",
+            "symbol": "ALM.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "APERAM",
+            "symbol": "APAM.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "PROSEGUR",
+            "symbol": "PSG.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "PROSEGUR CASH, S.A.",
+            "symbol": "CASH.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "AMREST HOLDINGS, S.E.",
+            "symbol": "EAT.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "NH HOTEL GROUP, S.A.",
+            "symbol": "NHH.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "GESTAMP AUTOMOCION, S.A.",
+            "symbol": "GEST.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "INDRA SISTEMAS S.A., SERIE A",
+            "symbol": "IDR.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "APPLUS SERVICES, S.A.",
+            "symbol": "APPS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "EUSKALTEL, S.A.",
+            "symbol": "EKT.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "MELIA HOTELS INTERNATIONAL, S.A.",
+            "symbol": "MEL.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "LABORATORIOS FARMACEUTICOS ROVI S.A.",
+            "symbol": "ROVI.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "MEDIASET ESPANA COMUNICACION, S.A.",
+            "symbol": "TL5.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "UNICAJA BANCO, S.A.",
+            "symbol": "UNI.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES, S.A.",
+            "symbol": "CAF.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "SACYR, S.A.",
+            "symbol": "SCYR.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "METROVACESA, S.A.",
+            "symbol": "MVC.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "FAES FARMA, S.A.",
+            "symbol": "FAE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "GMP PROPERTY SOCIMI, S.A.",
+            "symbol": "YGMP.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANCO SANTANDER RIO S.A. ORD. B",
+            "symbol": "XBRSB.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "TECNICAS REUNIDAS S.A.",
+            "symbol": "TRE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "SOLARIA ENERGIA Y MEDIO AMBIENTE, S.A.",
+            "symbol": "SLR.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BANCO BBVA ARGENTINA S.A.",
+            "symbol": "XBBAR.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "AUDAX RENOVABLES, S.A.",
+            "symbol": "ADX.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "PROMOTORA DE INFORMACIONES S.A. PRISA",
+            "symbol": "PRS.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "AEDAS HOMES, S.A",
+            "symbol": "AEDAS.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "TESTA RESIDENCAL SOCIMI, S.A.",
+            "symbol": "YTST.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "PHARMA MAR, S.A.",
+            "symbol": "PHM.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "LIBERBANK, S.A.",
+            "symbol": "LBK.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ZAMBAL SPAIN SOCIMI, S.A.",
+            "symbol": "YZBL.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "ENCE ENERGIA Y CELULOSA, S.A.",
+            "symbol": "ENC.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ELECNOR S.A.",
+            "symbol": "ENO.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "NEINOR HOMES, S.A.",
+            "symbol": "HOME.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, ",
+            "symbol": "A3M.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "REALIA BUSINESS, S.A.",
+            "symbol": "RLIA.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "TALGO, S.A.",
+            "symbol": "TLGO.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "VIVENIO RESIDENCIAL SOCIMI , S.A",
+            "symbol": "YVIV.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "CASTELLANA PROPERTIES SOCIMI, S.A.",
+            "symbol": "YCPS.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "GLOBAL DOMINION ACCESS, S.A.",
+            "symbol": "DOM.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "ALANTRA PARTNERS, S.A.",
+            "symbol": "ALNT.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "LAR ESPANA REAL ESTATE SOCIMI, S.A.",
+            "symbol": "LRE.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "DISTRIBUIDORA INTERNACIONAL DE ALIMENTACION, S.A.",
+            "symbol": "DIA.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "VOLCAN COMPAIA MINERA,S.A.A. CLASE B",
+            "symbol": "XVOLB.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+            },
+            {
+            "name": "SOLARPACK CORPORACION TECNOLOGICA, S.A.",
+            "symbol": "SPK.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "BARON DE LEY,S.A.",
+            "symbol": "BDL.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "MIQUEL Y COSTAS & MIQUEL, S.A.",
+            "symbol": "MCM.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "EDREAMS ODIGEO, S.A.",
+            "symbol": "EDR.BMEX",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "8"
+            },
+            {
+            "name": "PROEDUCA ALTUS, S.A.",
+            "symbol": "PRO.BMEX",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "8"
+        },
+        {
+            "name": "RELIANCE INDUSTRIES LTD.",
+            "symbol": "RELIANCE.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "TATA CONSULTANCY SERVICES LTD.",
+            "symbol": "TCS.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "HDFC BANK LTD.",
+            "symbol": "HDFCBANK.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "HINDUSTAN UNILEVER LTD.",
+            "symbol": "HINDUNILVR.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "HOUSING DEVELOPMENT FINANCE CO",
+            "symbol": "HDFC.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "ICICI BANK LTD.",
+            "symbol": "ICICIBANK.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "INFOSYS LTD.",
+            "symbol": "INFY.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "KOTAK MAHINDRA BANK LTD.",
+            "symbol": "KOTAKBANK.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BHARTI AIRTEL LTD.",
+            "symbol": "BHARTIARTL.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BAJAJ FINANCE LIMITED",
+            "symbol": "BAJFINANCE.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "STATE BANK OF INDIA",
+            "symbol": "SBIN.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "ITC LTD.",
+            "symbol": "ITC.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "AXIS BANK LTD.",
+            "symbol": "AXISBANK.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "MARUTI SUZUKI INDIA LTD.",
+            "symbol": "MARUTI.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "ASIAN PAINTS LTD.",
+            "symbol": "ASIANPAINT.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "STANDARD CHARTERED PLC",
+            "symbol": "STAN.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "LARSEN & TOUBRO LTD.",
+            "symbol": "LT.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "NESTLE INDIA LTD.",
+            "symbol": "NESTLEIND.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "HCL TECHNOLOGIES LTD.",
+            "symbol": "HCLTECH.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "AVENUE SUPERMARTS LIMITED",
+            "symbol": "DMART.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BAJAJ FINSERV LTD.",
+            "symbol": "BAJAJFINSV.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "WIPRO LTD.",
+            "symbol": "WIPRO.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ULTRATECH CEMENT LTD.",
+            "symbol": "ULTRACEMCO.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "OIL AND NATURAL GAS CORPORATIO",
+            "symbol": "ONGC.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "HDFC LIFE INSURANCE COMPANY LI",
+            "symbol": "HDFCLIFE.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "TITAN COMPANY LIMITED",
+            "symbol": "TITAN.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "COAL INDIA LTD.",
+            "symbol": "COALINDIA.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "NTPC LTD.",
+            "symbol": "NTPC.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "INDIAN OIL CORPORATION LTD.",
+            "symbol": "IOC.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "POWER GRID CORPORATION OF INDI",
+            "symbol": "POWERGRID.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "BHARAT PETROLEUM CORPORATION L",
+            "symbol": "BPCL.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "SBI LIFE INSURANCE COMPANY LIM",
+            "symbol": "SBILIFE.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "SUN PHARMACEUTICAL INDUSTRIES",
+            "symbol": "SUNPHARMA.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "DABUR INDIA LTD.",
+            "symbol": "DABUR.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "SHREE CEMENT LTD.",
+            "symbol": "SHREECEM.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "BAJAJ AUTO LTD.",
+            "symbol": "BAJAJ_AUTO.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "PIDILITE INDUSTRIES LTD.",
+            "symbol": "PIDILITIND.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "INDUSIND BANK LTD.",
+            "symbol": "INDUSINDBK.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "TECH MAHINDRA LTD.",
+            "symbol": "TECHM.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BRITANNIA INDUSTRIES LTD.",
+            "symbol": "BRITANNIA.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "HINDUSTAN ZINC LTD.",
+            "symbol": "HINDZINC.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ADANI PORTS AND SPECIAL ECONOM",
+            "symbol": "ADANIPORTS.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ICICI PRUDENTIAL LIFE INSURANC",
+            "symbol": "ICICIPRULI.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "HDFC ASSET MANAGEMENT COMPANY",
+            "symbol": "HDFCAMC.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BANDHAN BANK LIMITED",
+            "symbol": "BANDHANBNK.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "GODREJ CONSUMER PRODUCTS LTD.",
+            "symbol": "GODREJCP.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "MAHINDRA & MAHINDRA LTD.",
+            "symbol": "M_M.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "JSW STEEL LTD.",
+            "symbol": "JSWSTEEL.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "DIVIS LABORATORIES LTD.",
+            "symbol": "DIVISLAB.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BERGER PAINTS INDIA LTD.",
+            "symbol": "BERGEPAINT.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ICICI LOMBARD GENERAL INSURANC",
+            "symbol": "ICICIGI.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "DLF LTD.",
+            "symbol": "DLF.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "DR.REDDYS LABORATORIES LTD.",
+            "symbol": "DRREDDY.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "UNITED SPIRITS LTD.",
+            "symbol": "UNITDSPR.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "INTERGLOBE AVIATION LIMITED",
+            "symbol": "INDIGO.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "SIEMENS LTD.",
+            "symbol": "SIEMENS.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "EICHER MOTORS LTD.",
+            "symbol": "EICHERMOT.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "TATA MOTORS LTD.",
+            "symbol": "TATAMOTORS.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "GAIL (INDIA) LTD.",
+            "symbol": "GAIL.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "GRASIM INDUSTRIES LTD.",
+            "symbol": "GRASIM.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "VEDANTA LIMITED",
+            "symbol": "VEDL.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "TATA STEEL LIMITED",
+            "symbol": "TATASTEELP.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "TATA STEEL LTD.",
+            "symbol": "TATASTEEL.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "AMBUJA CEMENTS LTD.",
+            "symbol": "AMBUJACEM.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BHARTI INFRATEL LTD.",
+            "symbol": "INFRATEL.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "GLAXOSMITHKLINE CONSUMER HEALT",
+            "symbol": "GSKCONS.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "HERO MOTOCORP LTD.",
+            "symbol": "HEROMOTOCO.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "UPL LIMITED",
+            "symbol": "UPL.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "HAVELLS INDIA LTD.",
+            "symbol": "HAVELLS.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "BAJAJ HOLDINGS & INVESTMENT LT",
+            "symbol": "BAJAJHLDNG.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "MARICO LTD.",
+            "symbol": "MARICO.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "BOSCH LTD.",
+            "symbol": "BOSCHLTD.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "PETRONET LNG LTD.",
+            "symbol": "PETRONET.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "TORRENT PHARMACEUTICALS LTD.",
+            "symbol": "TORNTPHARM.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "PROCTER & GAMBLE HYGIENE & HEA",
+            "symbol": "PGHH.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "EMBASSY OFFICE PARKS REIT",
+            "symbol": "EMBASSY.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "MRF LTD.",
+            "symbol": "MRF.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "ADANI TRANSMISSION LIMITED",
+            "symbol": "ADANITRANS.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "WHIRLPOOL OF INDIA LTD.",
+            "symbol": "WHIRLPOOL.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "SHRIRAM TRANSPORT FINANCE CO.L",
+            "symbol": "SRTRANSFIN.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "KANSAI NEROLAC PAINTS LTD.",
+            "symbol": "KANSAINER.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "CADILA HEALTHCARE LTD.",
+            "symbol": "CADILAHC.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "3M INDIA LTD.",
+            "symbol": "3MINDIA.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "INDIAN RAILWAY CATERING AND TO",
+            "symbol": "IRCTC.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ACC LTD.",
+            "symbol": "ACC.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ABB INDIA LIMITED",
+            "symbol": "ABB.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "GODREJ PROPERTIES LTD",
+            "symbol": "GODREJPROP.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "PAGE INDUSTRIES LTD.",
+            "symbol": "PAGEIND.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "TRENT LTD.",
+            "symbol": "TRENT.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "APOLLO HOSPITALS ENTERPRISE LT",
+            "symbol": "APOLLOHOSP.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ADANI ENTERPRISES LTD.",
+            "symbol": "ADANIENT.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ZEE ENTERTAINMENT ENTERPRISES",
+            "symbol": "ZEEL.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "NIPPON LIFE INDIA ASSET MANAGE",
+            "symbol": "NAM_INDIA.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "CHOLAMANDALAM INVESTMENT AND F",
+            "symbol": "CHOLAFIN.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ADANI GREEN ENERGY LIMITED",
+            "symbol": "ADANIGREEN.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "REC LIMITED",
+            "symbol": "RECLTD.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "SRF LTD.",
+            "symbol": "SRF.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "VOLTAS LTD.",
+            "symbol": "VOLTAS.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {
+            "name": "VARUN BEVERAGES LIMITED",
+            "symbol": "VBL.XBOM",
+            "has_intraday": false,
+            "has_eod": false,
+            "parent_id": "9"
+            },
+            {
+            "name": "ORACLE FINANCIAL SERVICES SOFT",
+            "symbol": "OFSS.XBOM",
+            "has_intraday": false,
+            "has_eod": true,
+            "parent_id": "9"
+            },
+            {   
+                "name": "MICROSOFT CORP",
+                "symbol": "MSFT.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "APPLE",
+                "symbol": "AAPL.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "AMAZON",
+                "symbol": "AMZN.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ALPHABET CLASSE C",
+                "symbol": "GOOG.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ALPHABET CLASSE A",
+                "symbol": "GOOGL.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "FACEBOOK",
+                "symbol": "FB.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "INTEL",
+                "symbol": "INTC.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "LVMH",
+                "symbol": "LVMH.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "NVIDIA CORP",
+                "symbol": "NVDA.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "NETFLIX",
+                "symbol": "NFLX.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "L'OREAL",
+                "symbol": "OR.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "SAP",
+                "symbol": "SAP.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "TESLA",
+                "symbol": "TSLA.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "UNILEVER",
+                "symbol": "UNA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "AMGEN",
+                "symbol": "AMGN.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "SANOFI",
+                "symbol": "SANF.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ASML",
+                "symbol": "ASML.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ANHEUSER-BUSCH",
+                "symbol": "ABI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "TOTAL",
+                "symbol": "TOT.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "INDITEX",
+                "symbol": "ITX.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "STARBUCKS CORP",
+                "symbol": "SBUX.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "GILEAD SCIENCES",
+                "symbol": "GILD.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "AIRBUS",
+                "symbol": "AIR.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ALLIANZ",
+                "symbol": "ALV.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ENEL",
+                "symbol": "ENEL.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "SIEMENS",
+                "symbol": "SIE.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "DEUTSCHE TELEKOM",
+                "symbol": "DTE.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "IBERDROLA",
+                "symbol": "IBE.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "BAYER",
+                "symbol": "BAY.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "KERING",
+                "symbol": "KER.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "AIR LIQUIDE",
+                "symbol": "AI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "MICRON TECHNOLOGY",
+                "symbol": "MU.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "BNP PARIBAS",
+                "symbol": "BNP.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "BANCO SANTANDER",
+                "symbol": "SANT.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ESSILORLUXOTTICA",
+                "symbol": "EL.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "SCHNEIDER ELECTRIC",
+                "symbol": "SU.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "VINCI",
+                "symbol": "DG.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ADVANCED MICRO DEVICES",
+                "symbol": "AMD.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "AXA",
+                "symbol": "AXA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "SAFRAN",
+                "symbol": "SAF.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ADIDAS",
+                "symbol": "ADS.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "BASF",
+                "symbol": "BASF.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "MERCK",
+                "symbol": "MRK.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "SAIPEM RISP CV",
+                "symbol": "SPMR.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "DANONE",
+                "symbol": "DNN.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ENI",
+                "symbol": "ENI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "DAIMLER",
+                "symbol": "DAI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "BMW",
+                "symbol": "BMW.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "INTESA SANPAOLO",
+                "symbol": "ISP.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ENGIE",
+                "symbol": "ENGI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "PHILIPS",
+                "symbol": "PHIA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "MUNICH RE",
+                "symbol": "MUV2.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "DEUTSCHE POST",
+                "symbol": "DPW.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ING GROEP",
+                "symbol": "INGA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ORANGE",
+                "symbol": "ORA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "CREDIT AGRICOLE",
+                "symbol": "ACA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "BBVA",
+                "symbol": "BBVA.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "E.ON",
+                "symbol": "EOAN.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "VIVENDI",
+                "symbol": "VIV.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "TELEFONICA",
+                "symbol": "TEF.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "VONOVIA",
+                "symbol": "VNA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "DEUTSCHE BOERSE",
+                "symbol": "DB1.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "GENERALI ASS",
+                "symbol": "G.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "FERRARI",
+                "symbol": "RACE.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "UNICREDIT",
+                "symbol": "UCG.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "AHOLD DEL",
+                "symbol": "AD.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "FRESENIUS",
+                "symbol": "FRE.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "INFINEON TECHNOLOGIES",
+                "symbol": "IFX.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "BEIERSDORF",
+                "symbol": "BEI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "STMICROELECTRONICS",
+                "symbol": "STM.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "FRESENIUS MEDICAL CARE",
+                "symbol": "FME.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "RWE",
+                "symbol": "RWE.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "SOCIETE GENERALE",
+                "symbol": "GLE.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "NOKIA CORPORATION",
+                "symbol": "NOKIA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "CONTINENTAL",
+                "symbol": "CON.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "COMPAGNIE DE SAINT-GOBAIN",
+                "symbol": "SGO.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "FIAT CHRYSLER AUTOMOBILES",
+                "symbol": "FCA.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "DEUTSCHE BANK",
+                "symbol": "DBK.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "ATLANTIA",
+                "symbol": "ATL.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "REPSOL",
+                "symbol": "REP.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "PEUGEOT",
+                "symbol": "UG.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "SNAM",
+                "symbol": "SRG.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "WFD UNIBAIL-RODAMCO",
+                "symbol": "URW.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "EXOR",
+                "symbol": "EXO.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "CARREFOUR",
+                "symbol": "CRR.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "TERNA",
+                "symbol": "TRN.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "POSTE ITALIANE",
+                "symbol": "PST.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "CNH INDUSTRIAL",
+                "symbol": "CNHI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "HEIDELBERG CEMENT",
+                "symbol": "HEI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "EVONIK INDUSTRIES",
+                "symbol": "EVK.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "TELECOM ITALIA R",
+                "symbol": "TITR.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "TELECOM ITALIA",
+                "symbol": "TIT.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "PUMA",
+                "symbol": "PUM.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "TENARIS",
+                "symbol": "TEN.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "NEXI",
+                "symbol": "NEXI.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "MONCLER",
+                "symbol": "MONC.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "CAMPARI",
+                "symbol": "CPR.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "COVIVIO",
+                "symbol": "CVO.XMIL",
+                "has_intraday": false,
+                "has_eod": false,
+                "parent_id": "10"
+                },
+                {
+                "name": "AGEAS",
+                "symbol": "AGS.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                "name": "RECORDATI ORD",
+                "symbol": "REC.XMIL",
+                "has_intraday": false,
+                "has_eod": true,
+                "parent_id": "10"
+                },
+                {
+                    "name": "AMER EXPRESS CO",
+                    "symbol": "AXP.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "JOHNSON & JOHNSON",
+                    "symbol": "JNJC.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "AMAZON COM INC",
+                    "symbol": "AMZN.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "INFOSYS LTD",
+                    "symbol": "INFY.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GLOBANT SA",
+                    "symbol": "GLNT.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "PAYPAL HOLDINGS IN",
+                    "symbol": "PYPL.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "JPMORGAN CHASE &CO",
+                    "symbol": "JPM.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "PROCTER & GAMBLE",
+                    "symbol": "PG.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GLOBANT SA",
+                    "symbol": "GLNTD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "VERIZON COMMUN",
+                    "symbol": "VZ.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "COCA-COLA CO",
+                    "symbol": "KO.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "MERCADOLIBRE INC",
+                    "symbol": "MELI.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ITAU UNIBANCO HOLD",
+                    "symbol": "ITUB.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "VISTA OIL & GAS",
+                    "symbol": "VISTD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "VODAFONE GROUP",
+                    "symbol": "VOD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "APPLE INC",
+                    "symbol": "AAPL.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "JPMORGAN CHASE &CO",
+                    "symbol": "JPMD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "QUALCOMM INC",
+                    "symbol": "QCOM.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BIOGEN INC",
+                    "symbol": "BIIB.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "HOME DEPOT INC",
+                    "symbol": "HD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "CHINA MOBILE LTD",
+                    "symbol": "CHL.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TENARIS S.A.",
+                    "symbol": "TEN.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "NOKIA OYJ",
+                    "symbol": "NOKA.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BK OF AMERICA CORP",
+                    "symbol": "BA.C.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "APPLE INC",
+                    "symbol": "AAPLD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "PETROL BRASILEIROS",
+                    "symbol": "PBRD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "LLOYDS BANKING GP",
+                    "symbol": "LYG.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "NEWMONT CORPORATIO",
+                    "symbol": "NEM.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "UTD TECHNOLOGIES",
+                    "symbol": "UTXD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "YAMANA GOLD INC",
+                    "symbol": "AUYD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "FOMENTO ECON MEXIC",
+                    "symbol": "FMX.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "MICROSOFT CORP",
+                    "symbol": "MSFT.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "PFIZER INC",
+                    "symbol": "PFED.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "CIA SIDERURGICA NC",
+                    "symbol": "SID.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "COCA-COLA CO",
+                    "symbol": "KOD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TIM PARTICIPACOES",
+                    "symbol": "TSU.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GERDAU SA",
+                    "symbol": "GGB.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "VALE S.A.",
+                    "symbol": "VALE.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "LAS VEGAS SANDS CO",
+                    "symbol": "LVS.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BARRICK GOLD CORP",
+                    "symbol": "GOLDD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "US BANCORP",
+                    "symbol": "USB.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "SCHLUMBERGER",
+                    "symbol": "SLB.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "MCDONALD'S CORP",
+                    "symbol": "MCDD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "MERCADOLIBRE INC",
+                    "symbol": "MELID.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ADECOAGRO S A",
+                    "symbol": "ADGO.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "PEPSICO INC",
+                    "symbol": "PEP.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ADVANCED MICRO DEV",
+                    "symbol": "AMD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ALPHABET INC",
+                    "symbol": "GOGLD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "AMERICA MOVIL SAB",
+                    "symbol": "AMX.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "NIKE INC",
+                    "symbol": "NKE.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GLAXOSMITHKLINE",
+                    "symbol": "GSK.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ARCONIC INC",
+                    "symbol": "ARNC.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "JD.COM INC",
+                    "symbol": "JD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "COLGATE-PALMOLIVE",
+                    "symbol": "CL.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "WELLS FARGO & CO",
+                    "symbol": "WFC.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BAIDU INC",
+                    "symbol": "BIDU.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "CHEVRON CORP",
+                    "symbol": "CVX.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "LOCKHEED MARTIN CO",
+                    "symbol": "LMT.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "MCDONALD'S CORP",
+                    "symbol": "MCD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "UNITED STATES STEE",
+                    "symbol": "X.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "NATIONAL GRID",
+                    "symbol": "NGG.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "MERCK & CO INC",
+                    "symbol": "MRK.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "EXXON MOBIL CORP",
+                    "symbol": "XOM.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ALPHABET INC",
+                    "symbol": "GOOGL.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "WALMART INC",
+                    "symbol": "WMT.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BBVA(BILB-VIZ-ARG)",
+                    "symbol": "BBV.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BP",
+                    "symbol": "BP.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ADOBE INC",
+                    "symbol": "ADBE.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TERNIUM SA",
+                    "symbol": "TXRD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "PETROCHINA CO",
+                    "symbol": "PTR.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "WALT DISNEY CO.",
+                    "symbol": "DISN.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TERNIUM SA",
+                    "symbol": "TXR.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GILEAD SCIENCES",
+                    "symbol": "GILD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BARCLAYS PLC",
+                    "symbol": "BCS.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "FACEBOOK INC",
+                    "symbol": "FB.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "EXXON MOBIL CORP",
+                    "symbol": "DXOM2.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GOLDEN OCEAN GROUP",
+                    "symbol": "GOGLC.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "CIA BRAS DE DISTRI",
+                    "symbol": "CBRD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "B-GAMING S.A.",
+                    "symbol": "GAMI.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ALTRIA GROUP INC",
+                    "symbol": "MOD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BANCO SANTANDER",
+                    "symbol": "SAN.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "UTD TECHNOLOGIES",
+                    "symbol": "UTX.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "CHEVRON CORP",
+                    "symbol": "CVXD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BANCO SANTANDER(BR",
+                    "symbol": "BSBR.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BARRICK GOLD CORP",
+                    "symbol": "GOLDC.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "WALMART INC",
+                    "symbol": "WMTD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "AMAZON COM INC",
+                    "symbol": "AMZNC.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "SNAP INC",
+                    "symbol": "SNAP.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "RIO TINTO",
+                    "symbol": "RIO.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TELEFONICA BRASIL",
+                    "symbol": "VIV.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "CISCO SYSTEMS",
+                    "symbol": "CSCO.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ARCOS DORADOS HOLD",
+                    "symbol": "ARCO.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "DUPONT DE NEMOURS",
+                    "symbol": "DD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TRAVELERS COMPANIE",
+                    "symbol": "TRVVD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "BOEING CO",
+                    "symbol": "BAD.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TWITTER INC",
+                    "symbol": "TWTR.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "ALTRIA GROUP INC",
+                    "symbol": "MO.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "AMBEV SA",
+                    "symbol": "ABEV.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "GEN ELEC CO",
+                    "symbol": "GE.XBUE",
+                    "has_intraday": false,
+                    "has_eod": true,
+                    "parent_id": "11"
+                    },
+                    {
+                    "name": "TOTAL",
+                    "symbol": "TOT.XBUE",
+                    "has_intraday": false,
+                    "has_eod": false,
+                    "parent_id": "11"
+                    }
+
+                ]
+    
+

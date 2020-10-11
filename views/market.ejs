@@ -1,0 +1,58 @@
+<%- include("partials/header"); %>
+
+<div class="container pt-2">
+    <h2 class="text-center">You are checking <%= marketName %> market.</h2>
+    <h5 class="text-center">Check "See prices and volume" button.</h5>
+</div>
+
+<div class="container pt-2">
+    <div class="row justify-content-center">
+        <%  if (info.pagination.total != 0)
+            for (var i=0; i<info.data.length-(info.data.length%3); i=i+3) { %>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>Name: <%= info.data[i].name %></p>
+                <p>Symbol: <%= info.data[i].symbol %></p>
+                <p>Updated intraday prices: <%= info.data[i].has_intraday %></p>
+                <p>Updated daily prices: <%= info.data[i].has_eod %></p>
+                <% if (info.data[i].has_eod == true) { %>
+                    <div class="pb-1">
+                        <a class="btn btn-primary" href="/stocks/<%= info.data[i].symbol%>" role="button">See prices and volume</a>
+                    </div>
+                <% } %>
+            </div>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>Name: <%= info.data[i+1].name %></p>
+                <p>Symbol: <%= info.data[i+1].symbol %></p>
+                <p>Updated intraday prices: <%= info.data[i+1].has_intraday %></p>
+                <p>Updated daily prices: <%= info.data[i+1].has_eod %></p>
+                <% if (info.data[i+1].has_eod == true) { %>
+                    <div class="pb-1">
+                        <a class="btn btn-primary" href="/stocks/<%= info.data[i+1].symbol%>" role="button">See prices and volume</a>
+                    </div>
+                <% } %>
+            </div>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p>Name: <%= info.data[i+2].name %></p>
+                <p>Symbol: <%= info.data[i+2].symbol %></p>
+                <p>Updated intraday prices: <%= info.data[i+2].has_intraday %></p>
+                <p>Updated daily prices: <%= info.data[i+2].has_eod %></p>
+                <% if (info.data[i+2].has_eod == true) { %>
+                    <div class="pb-1">
+                        <a class="btn btn-primary" href="/stocks/<%= info.data[i+2].symbol%>" role="button">See prices and volume</a>
+                    </div>
+                <% } %>
+            </div>
+        <%  } 
+            else { %>
+            <div class="col-sm-3 col-md-3 border border-dark m-2">
+                <p class="pt-3">The market has no database, try other markets.</p>
+                <p>We are doing our best to offer you the best services possible.</p>
+                <div class="pb-3">
+                    <a class="btn btn-primary" href="/markets" role="button">Markets</a>
+                </div>
+            </div>    
+            <% } %>
+    </div>
+</div> 
+
+<%- include("partials/footer"); %>

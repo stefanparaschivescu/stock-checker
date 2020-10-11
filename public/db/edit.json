@@ -1,4 +1,19 @@
-[
+[{
+    "id":"6",
+    "name":"XBEL (Belgrade Stock Exchange)",
+    "symbol": "XBEL",
+    "parent_id":"0",
+    "country": "Serbia" ,
+    "numberOfStocks": 35
+},
+{
+    "id":"7",
+    "name":"XBOG (Bolsa de Valores de Colombia)",
+    "symbol": "XBOG",
+    "parent_id":"0",
+    "country": "Colombia" ,
+    "numberOfStocks": 10
+},
 
 {
     "id":"12",

@@ -17,15 +17,15 @@
     </thead>
     
     <tbody>
-      <% for (var i = 0; i < 11; i++) { %>
-      <tr class='clickable-row' onclick="window.location='<%= tickers[i].symbol%>';">
-        <td><%= tickers[i].symbol%> </td>
-        <td><%= tickers[i].name.split(" (")[1].split(")")[0] %></td>
-        <td><%= tickers[i].country %> </td>
-        <td>
-          <span class="badge badge-primary badge-pill"><%= tickers[i].numberOfStocks %> </span>
-        </td>
-      </tr>
+      <% for (var i = 0; i < 9; i++) { %>
+        <tr class='clickable-row' onclick="window.location='/markets/<%=tickers[i].symbol%>';">
+          <td><%= tickers[i].symbol%> </td>
+          <td><%= tickers[i].name.split(" (")[1].split(")")[0] %></td>
+          <td><%= tickers[i].country %> </td>
+          <td>
+            <span class="badge badge-primary badge-pill"><%= tickers[i].numberOfStocks %> </span>
+          </td>
+        </tr>
     <% } %> 
     </tbody>
   </table>
