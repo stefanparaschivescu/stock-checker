@@ -72,6 +72,7 @@ script.get ("/stocks/:stock/graph", function(req, res) {
             console.log(error);
         else {
             var parsedData = JSON.parse(body);
+            
             res.render("chart", {
                 info: parsedData,
                 stockName: stockName
@@ -100,8 +101,8 @@ script.get ("/stocks/:stock", function(req, res) {
 });
 
 script.get("/stocks/:marketName/:stockName", function(req, res){
-    const marketName = req.params.marketName;
-    const stockName = req.params.stockName;
+    var marketName = req.params.marketName;
+    var stockName = req.params.stockName;
 
     request("http://api.marketstack.com/v1/eod?access_key=3e2acadd993217be01bec6ee29166404&exchange=" + marketName + "&symbols=" + stockName, function(error, response, body) {
         if (error)
