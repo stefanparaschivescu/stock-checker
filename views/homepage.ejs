@@ -1,7 +1,7 @@
 <%- include("partials/header"); %>
 
 	
-	<form action="/" method="POST" class="container pt-2" enctype="application/json">
+	<form id="myform"action="/" method="POST" class="container pt-2" enctype="application/json">
 		<div class="form-group">
 			<select class="form-control" name="market" id="market">
                 <option value="">Select market</option>
@@ -11,7 +11,8 @@
                 <input class="form-control" name="stock" id="input" type="text" placeholder="Search stock..."/>
             </div>
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <input type='submit' name='check' class="btn btn-outline-primary" value='Check prices & volume'>
+        <input type='submit' name='check' class="btn btn-outline-success" value='See line chart'>
     </form>
 
 

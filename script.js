@@ -2,7 +2,6 @@ const express = require("express");
 const script = express();
 const request = require("request");
 const fs = require('fs');
-const lodash = require("lodash");
 
 script.use(express.json() );
 script.use(express.urlencoded({
@@ -23,8 +22,11 @@ script.get('/', function (req, res) {
 
 script.post("/", function (req, res) {
     const stockName = req.body.stock;
-
-    res.redirect("/stocks/" + stockName)
+    const inputValue = req.body.check;
+    if (inputValue == "Check prices & volume")
+        res.redirect(`/stocks/${stockName}`);
+    else
+        res.redirect(`/stocks/${stockName}/graph`);
 });
 
 
@@ -61,6 +63,25 @@ script.get("/stocks", function(req,res) {
         }
     });
 });
+
+
+script.get ("/stocks/:stock/graph", function(req, res) {
+    var stockName = req.params.stock;
+    request("http://api.marketstack.com/v1/eod?access_key=3e2acadd993217be01bec6ee29166404&symbols=" + stockName, function(error, response, body) {
+        if (error)
+            console.log(error);
+        else {
+            var parsedData = JSON.parse(body);
+            res.render("chart", {
+                info: parsedData,
+                stockName: stockName
+            });;
+        }
+    });
+    
+});
+
+
 
 script.get ("/stocks/:stock", function(req, res) {
     var stockName = req.params.stock;
