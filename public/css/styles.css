@@ -36,3 +36,54 @@ body { padding-top: 65px; }
 .ui-autocomplete-loading {
     background: white url("/images/ui-anim_basic_16x16.gif") right center no-repeat;
   }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #chartButton {
+    margin-top: 4px;
+    margin-bottom: 3px;
+  }
+
+  #parent {
+    position: relative;
+    height: 310px;
+  }
+
+  #buttons {
+    position: absolute;
+    bottom: 0px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){ 
+  #chartButton {
+    margin-top: 4px;
+    margin-bottom: 3px;
+  }
+
+  #parent {
+    position: relative;
+    height: 315px;
+  }
+
+  #buttons {
+    position: absolute;
+    bottom: 0px;
+  }
+}
+
+@media (min-width: 1200px) { 
+  #chartButton {
+    margin-top: 4px;
+    margin-bottom: 3px;
+  }
+
+  #parent {
+    position: relative;
+    height: 290px;
+  }
+
+  #buttons {
+    position: absolute;
+    bottom: 0px;
+  }
+}
