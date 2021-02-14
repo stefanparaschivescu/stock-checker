@@ -1,0 +1,137 @@
+<%- include("partials/header_charts"); %>
+
+<div class="container">
+  <% if(info.pagination.total != 0) { %>
+    <div class="col-12">
+      <canvas id="priceChart"></canvas>
+      <span class="badge badge-success">Price</span>
+    </div>
+    <div class="col-12" style="margin-top: -10px;">
+      <canvas style="max-height: 80px;" id="volumeChart"></canvas>
+      <span class="badge badge-secondary">Volume</span>
+    </div>
+</div>
+  <% }
+  else { %>
+    <div class="container">
+      <div class="col-12 border border-dark m-2 ">
+        <p class="pt-3 centre">The stock has no database, try other stocks.</p>
+        <p>We are doing our best to offer you the best services possible.</p>
+        <div class="pb-3">
+            <a class="btn btn-primary" href="/" role="button">Search page</a>
+        </div>
+      </div>
+    </div>  
+  <% } %>
+
+
+<script>
+  let temp = '<%- JSON.stringify(info) %>';
+  var info = JSON.parse(temp);
+  temp = '<%- JSON.stringify(stockName) %>';
+  var stockName = JSON.parse(temp);
+
+  var price = document.getElementById('priceChart');
+  var volume = document.getElementById('volumeChart');
+  
+  function getColor() {
+    if (info.data[0].close > info.data[99].close)
+      return 'rgb(0,135,60)';
+    else if (info.data[0].close < info.data[99].close)
+      return 'rgb(235,15,41)';
+    else
+      return 'rgb(158,158,158)';
+  }
+
+  function getLables() {
+    var labels = [];
+    for (let i=0; i< info.pagination.count; i++) {
+      var temp = info.data[i].date.split('T'); 
+      labels.push(temp[0]);
+    }
+    return labels.reverse(); 
+  }
+
+  function getPriceData() {
+    var data = [];
+    for (let i=0; i<info.pagination.count; i++) {
+      data.push(info.data[i].close);
+    }
+    return data.reverse();
+  }
+
+  function getVolumeData() {
+    var data = [];
+    for (let i=0; i<info.pagination.count; i++) {
+      data.push(info.data[i].volume);
+    }
+    return data.reverse();
+  }
+  
+  var chart = new Chart(price, {
+    type: 'line',
+    data: {
+        labels: getLables(), 
+        datasets: [{
+            label: stockName,
+            backgroundColor: getColor(),
+            borderColor: getColor(),
+            pointRadius: 1,
+            data: getPriceData()
+        }]
+    },
+    options: {
+      scales: {
+          xAxes: [{
+            ticks: {
+              display: false
+            }
+          }]
+        }
+    }
+  });
+
+  var chart = new Chart(volume, {
+      type: 'bar',
+      data: {
+          labels: getLables(), 
+          datasets: [{
+              label: 'Volume',
+              backgroundColor: 'rgb(169,169,169)',
+              borderColor: 'rgb(169,169,169)',
+              data: getVolumeData(),
+              maxBarThickness: 6,
+
+          }]
+      },
+      options: {
+        maintainAspectRatio: false,
+        legend: {
+          display: false
+        },
+        scales: {
+          xAxes: [{
+            gridLines: {
+					    display: false,
+					    drawBorder: false
+				    },
+            ticks: {
+              display: false
+            }
+          }],
+          yAxes: [{
+            gridLines: {
+					    display: false,
+					    drawBorder: false
+				    },
+            ticks: {
+              display: false
+            }
+          }]
+        }
+        
+      }
+  });
+</script>
+
+<%- include("partials/footer"); %>

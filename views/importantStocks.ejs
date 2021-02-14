@@ -9,6 +9,7 @@
         <p class="card-text"><small class="text-muted">Last updated: <%= info.data[i].date.split("T")[0] %></small></p>
       <div class="pb-1">
         <a class="btn btn-primary" href="/stocks/<%= info.data[i].symbol%>" role="button">See prices and volume</a>
+        <a class="btn btn-success" href="/stocks/<%= info.data[i].symbol%>/graph" role="button">Check line chart</a>
       </div>
   </div>
 </div>

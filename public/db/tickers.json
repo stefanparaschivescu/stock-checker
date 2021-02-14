@@ -25,10 +25,10 @@
     },
     {
         "id":"4",
-        "name":"BVMF (Australia Stock Exchange)",
+        "name":"BVMF (Brazilian Stock Exchange)",
         "symbol": "BVMF",
         "parent_id":"0",
-        "country": "Australia",
+        "country": "Brazil",
         "numberOfStocks": 211 
     },
     {
