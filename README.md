@@ -14,3 +14,4 @@ Also it offers fundamental data of companies including company overviews from ex
 * List of all the markets with future possibility to view all the stocks from it
 * Stocks section that will use an algorithm to decide which stocks performed best from that day
 * Stock prices and volume of the selected stock from the last 100 days
+* Rushay Parikh
