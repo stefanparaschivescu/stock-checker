@@ -2,6 +2,7 @@ const express = require("express");
 const script = express();
 const request = require("request");
 const fs = require('fs');
+const config = require('./config.js');
 
 script.use(express.json() );
 script.use(express.urlencoded({
@@ -23,7 +24,7 @@ script.get('/', function (req, res) {
 script.post("/", function (req, res) {
     const stockName = req.body.stock;
     const inputValue = req.body.check;
-    if (inputValue == "Check prices & volume")
+    if (inputValue === "Check prices & volume")
         res.redirect(`/stocks/${stockName}`);
     else
         res.redirect(`/stocks/${stockName}/graph`);
@@ -38,7 +39,7 @@ script.get("/markets", function(req, res) {
 
 script.get("/markets/:marketName", function(req, res){
     var marketName = req.params.marketName;
-    request("http://api.marketstack.com/v1/tickers?access_key=3e2acadd993217be01bec6ee29166404&exchange=" + marketName, function(error, response, body) {
+    request("http://api.marketstack.com/v1/tickers?access_key=" + config.key + "&exchange=" + marketName, function(error, response, body) {
     if (error)
         console.log(error);
     else {
@@ -52,7 +53,7 @@ script.get("/markets/:marketName", function(req, res){
 });
 
 script.get("/stocks", function(req,res) {
-    request("http://api.marketstack.com/v1/eod?access_key=3e2acadd993217be01bec6ee29166404&symbols=AAPL,MSFT,TSLA,AMZN,FB,NFLX", function(error, response, body) {
+    request("http://api.marketstack.com/v1/eod?access_key=" + config.key + "&symbols=AAPL,MSFT,TSLA,AMZN,FB,NFLX", function(error, response, body) {
         if (error)
             res.send(error);
         else {
@@ -67,7 +68,7 @@ script.get("/stocks", function(req,res) {
 
 script.get ("/stocks/:stock/graph", function(req, res) {
     var stockName = req.params.stock;
-    request("http://api.marketstack.com/v1/eod?access_key=3e2acadd993217be01bec6ee29166404&symbols=" + stockName, function(error, response, body) {
+    request("http://api.marketstack.com/v1/eod?access_key=" + config.key + "&symbols=" + stockName, function(error, response, body) {
         if (error)
             console.log(error);
         else {
@@ -76,7 +77,7 @@ script.get ("/stocks/:stock/graph", function(req, res) {
             res.render("chart", {
                 info: parsedData,
                 stockName: stockName
-            });;
+            });
         }
     });
     
@@ -86,7 +87,7 @@ script.get ("/stocks/:stock/graph", function(req, res) {
 
 script.get ("/stocks/:stock", function(req, res) {
     var stockName = req.params.stock;
-    request("http://api.marketstack.com/v1/eod?access_key=3e2acadd993217be01bec6ee29166404&symbols=" + stockName, function(error, response, body) {
+    request("http://api.marketstack.com/v1/eod?access_key=" + config.key + "&symbols=" + stockName, function(error, response, body) {
         if (error)
             console.log(error);
         else {
@@ -94,7 +95,7 @@ script.get ("/stocks/:stock", function(req, res) {
             res.render("stock", {
                 info: parsedData,
                 stockName: stockName
-            });;
+            });
         }
     });
     
@@ -104,7 +105,7 @@ script.get("/stocks/:marketName/:stockName", function(req, res){
     var marketName = req.params.marketName;
     var stockName = req.params.stockName;
 
-    request("http://api.marketstack.com/v1/eod?access_key=3e2acadd993217be01bec6ee29166404&exchange=" + marketName + "&symbols=" + stockName, function(error, response, body) {
+    request("http://api.marketstack.com/v1/eod?access_key=" +  config.key + "&exchange=" + marketName + "&symbols=" + stockName, function(error, response, body) {
         if (error)
             console.log(error);
         else {
@@ -112,7 +113,7 @@ script.get("/stocks/:marketName/:stockName", function(req, res){
             res.render("stock", {
                 info: parsedData,
                 stockName: stockName,
-            });;
+            });
         }
     });
 });
